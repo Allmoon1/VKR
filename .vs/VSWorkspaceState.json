@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\nippur",
+    "\\nippur\\main",
+    "\\nippur\\nippur"
   ],
-  "SelectedNode": "\\C:\\Users\\andry\\Source\\Repos\\VKR",
+  "SelectedNode": "\\nippur\\main\\admin.py",
   "PreviewInSolutionExplorer": false
 }
