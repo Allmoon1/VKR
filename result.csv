@@ -1,0 +1,2002 @@
+num,song_id,song_title,cluster,file_path
+0,b'SORKXVV12A8C134C70',b'Price I Pay',6,'C:/Users/andry/OneDrive/Рабочий стол/music/Price I Pay.mp3'
+1,b'SOVFWRR12A58A7C25E',b'Never Again (Album Version)',1,'C:/Users/andry/OneDrive/Рабочий стол/music/Never Again (Album Version).mp3'
+2,b'SONTDOE12AAFF4446C',b'Earth Child (World)',0,'C:/Users/andry/OneDrive/Рабочий стол/music/Earth Child (World).mp3'
+3,b'SOPXZIE12AB017C4D4',b'Master_ Faster_ Sweet Desaster',6
+4,b'SOQSCFU12A8C13DAC3',"b'Silent Night (Featuring Geoffrey Jones_ Terrence ""T-Bone"" Frierson_ Billy Steele)'",6
+5,b'SOIBUYG12AB01892A1',"b""My Man's Gone Now""",2
+6,b'SOSKFIT12A8C14224A',"b""Sweet Child O' Mine""",6
+7,b'SONXPQC12AB0189A32',b'Getto Boys',6
+8,b'SOXDIWY12A8C13AD20',b'Crosses of crossed colors 3',5
+9,b'SOFQRSV12A8C1358A9',b'Thriller',1
+10,b'SOCXVHG12AB0181FAA',b'Qing Yi Shi',8
+11,b'SORGLWU12AB0182E5B',b'Megaton B-Boy 2000 (LP Version)',7
+12,b'SORZNEP12CF54662E7',b'Fried Neck Bones And Some Home Fries',8
+13,b'SOATMXI12AB017DA64',b'El troyano',8
+14,b'SODFVLR12AB0182A73',b'1000 Of Years Ago',9
+15,b'SOPPTXH12A8C1409BC',b'Sent By Angels',3
+16,b'SOMDCSV12A6D4FCC4E',b'The Plot To Bomb The Panhandle (Album Version)',1
+17,b'SOVWGIY12AB01837EC',b'Wendy',8
+18,b'SOVSBWN12A813557F9',b'Eyes Of A Stranger (Album Version)',8
+19,b'SOZMKQQ12A8C142021',b'Empty Bottles',0
+20,b'SOORFMU12A8C13C17C',b'She Spoke 2 Me ( Extended Remix LP Version)',6
+21,b'SOASAOQ12A582917AA',b'God Keeps A Candle',8
+22,b'SOKAWKH12A8C13514C',b'Bootleg Rum Dum Blues',2
+23,b'SOHZVMY12AC3DF6075',b'Blues As Blues Can Get',3
+24,b'SOXOEJL12A58A7B20F',b'Husbands And Wives',3
+25,b'SOEDPQL12AF72AB07B',"b""The Gold It's In The ... (1996 Digital Remaster)""",6
+26,b'SOBVTQI12A6D4F80ED',b'Be Stiff (Live)',6
+27,b'SOOZCDR12AB018B6B6',b'Komm Computer',7
+28,b'SOTSQZD12AB018A979',b'Tu Ex Amor',0
+29,b'SOVDOWL12AC3DF4718',b'I Wonder Where You Are Tonight',0
+30,b'SOQKHXG12A8AE47295',b'Gyere velem',7
+31,b'SOYJZTG12A81C23239',b'Class Act',8
+32,b'SOPJMCP12AB018CCA2',"b""Mother's Luv""",6
+33,b'SOTGHKM12A8C13C67C',"b""The Ballad Of St. Anne's Reel""",3
+34,b'SOCNADB12AB0185B07',b'Meteorito',4
+35,b'SOHDAZP12AB0185D7F',b'Monday Morning Blues',2
+36,b'SOYDMSD12AB01825A3',b'Side By Side',9
+37,b'SOITEFM12A8C13CE39',b'Somebody Stop Me',0
+38,b'SONBYWD12A6D4F5E8B',b'We Are The Reason - Medium key performance track w/o background vocals',3
+39,b'SOKPBHZ12AB0181931',b'The Cat Came Back',9
+40,b'SOTFFLU12A679AE5C4',b'Let Him Fly',3
+41,b'SOZBKLM12A58A78692',b'Outside',9
+42,b'SOFCPRQ12A8AE483D1',b'The Bottom Line',7
+43,b'SONVCGW12A81C23489',b'Going Down',1
+44,b'SOEORDW12A6D4FB045',b'Marrakech',1
+45,b'SOQRFEQ12AB017BB66',b'People Never Give Up',4
+46,b'SOBOKGJ12A8C132819',"b""It'll All Come Around (Album Version)""",7
+47,b'SORPYHC12A6D4F9F58',b'Roadhouse Blues (Live In Detroit) (LP Version)',0
+48,b'SOKRLDX12A8C140A0F',b'Hiroshima',5
+49,b'SOYXIYK12A8C138524',b'Nocturne For Piano No. 8 In D Flat Major_ Op. 84 No. 8 (also in Huit pi\xc3\xa8ces br\xc3\xa8ves_ Op. 84/8)',5
+50,b'SOLTODW12AF72A9E5E',b'I Swear the Visine is for my Allergies',1
+51,b'SOJJPHI12AB018B991',b'Reunited',4
+52,b'SOLDKKK12A6D4FD12B',b'Bath Of Least Resistance',6
+53,b'SONLPBB12A8C13C780',b'Sea_ Subsurface',5
+54,b'SOVETRX12A6D4F7717',b'De Lai Bu Yi',3
+55,b'SOWYBEK12AB018BB91',b'Wild Ride (From the album Steel And Fire)',9
+56,b'SOQUUNE12A8C135F0D',b'Birak Yakami',1
+57,b'SOXAPVV12A67020F8C',b'New Morning (Live)',3
+58,b'SOVDQMC12A8C142C99',"b""It's Alright Bruv""",1
+59,b'SOBCLUB12A6BD53D2E',b'Svedomi',6
+60,b'SOGYWNC12A58A7811F',b'People = Sh*t (live) (Album Version)',1
+61,b'SOLLTIL12A6D4F970A',b'Como Olvidar (Merengue Versi\xc3\xb3n)',7
+62,b'SODJBBD12A58A7EC47',b'Les Fleurs',7
+63,b'SOIOCPL12A58A800EC',b'Too Tight Blues No. 2',2
+64,b'SOMSOXH12A67ADD011',b'Dekh Le',1
+65,b'SOHTDBY12A67020981',b'New Born Soul',0
+66,b'SOFJAJB12A8C139F14',b'Madeleine',5
+67,b'SOUFBXS12A67ADD453',b'El Oro De La Gallina De Los Huevos',6
+68,b'SOHQAKK12A8C131323',b'War?',7
+69,b'SOREVMS12A58A7B236',b'If You Leave Me Now',8
+70,b'SOACJHA12A58A7C346',b'You Saved My Life',8
+71,b'SOPFVNF12AB017F32E',b'Prends-Moi La Main',7
+72,b'SOWPPAT12AB017F666',b'So Many Roads',8
+73,b'SOCQVFV12AB01859A2',b'Oceans',3
+74,b'SOMDNTQ12A8C13D5FD',"b""Don't Look Back (Radio Edit)""",8
+75,b'SORLXTP12A8C133DDB',b'Splendido Sundance',3
+76,b'SONSRYI12AC468E503',b'Mr. Goose',9
+77,b'SOHQYKY12AB017A589',b'Would?',8
+78,b'SOQRSPD12A8C133A86',b'Revolution',1
+79,b'SOPXVOR12AB017E16B',b'The Line',3
+80,b'SOJZZTX12A58A7CF75',b'The Yellow Rose Of Texas',3
+81,b'SOMNPJX12AB0183CCC',b'Trapdoor',1
+82,b'SOKPHRH12A8C13C0FC',"b""The White's Bedroom - Fire Escape""",1
+83,b'SOZOEYP12AB0188C9D',b'Plastic People',7
+84,b'SOGUDRH12AB0189A45',b'Song Of Australia - Canto 6 (2009 Digital Remaster)',4
+85,b'SOVSJCE12A6701E0D9',b'Black Celebration',7
+86,b'SOIQBJF12AB018B897',b'Le Fiacre',4
+87,b'SOFEMZZ12AB01886A8',b'Meeting Daisy',5
+88,b'SOVWDSK12AB01840B8',b'Sophie',8
+89,b'SORUQQG12A8C135A68',"b""Ke T' Oniro Egine Efialtis""",3
+90,b'SOHOQSB12A8C13B61B',b'Superscout',6
+91,b'SOGJBGB12AB017C75C',b'Another Land (World)',8
+92,b'SOKVLLZ12AB0184370',"b""Please Heart_ You're Killing Me""",3
+93,b'SOULCSR12A58A7AAB7',b'No Volveras A Mi',3
+94,b'SONIISO12A8C134DA8',b'Take a Ride',7
+95,b'SOJMUAU12A67ADBD12',b'Castillos Y Sue\xc3\xb1os',4
+96,b'SOCPDTZ12AB01884CB',b'All The Lessons',7
+97,b'SOBLXLK12A6D4F746E',b'Yodelling Mad (2002 Digital Remaster)',3
+98,b'SOLHGND12AB0189E22',b'Lieder_ Die Uns Ein Leben Lang Begleiten',3
+99,b'SOLNXKA12A67ADA350',b'So Not Over You (Motivo-Pop Lectro Mix)',4
+100,b'SOYQDEB12A6D4F8FB4',"b""C'est Toujours Le Matin""",6
+101,b'SOOMAFU12A6D4FACEA',b'Show Me The Way',6
+102,b'SOQXTLG12A6D4FA3E8',"b""Happy Mother's Day""",3
+103,b'SOFJOVY12A8AE45ABB',b'Cruz',8
+104,b'SOUZUPV12A6701E56D',b'Only Lonely',7
+105,b'SOVKTXA12A6D4FAC36',b'Valium',7
+106,b'SOLBMXO12AB017D553',b'Afonsina y el mar',6
+107,b'SOTPBIT12AB018BA66',b'Angel [2004]',1
+108,b'SOBMDRK12AB017F4CB',b'Funny How Time Slips Away',2
+109,b'SOIZVHQ12AB018A066',b'Klaio Gia Sena (Niagaras)',6
+110,b'SOLVUSB12AB0180607',"b""Cuttin' the Tree""",7
+111,b'SOAJKRD12A8C138AAF',b'Dont Push Me Away',9
+112,b'SOWIGXC12AF729AEC2',b'O Come_ O Come Emmanuel',0
+113,b'SOXPHFT12A8C13B679',b'Run And Tell',7
+114,b'SOXWMJH12AB01883F9',"b""Tout bizwen (feat. Milca_ Synn'Tya_ Shaolin)""",7
+115,b'SOKHBRA12AB017E6AE',b'Cuatro Veinte',2
+116,b'SOKMNNL12A58A7709A',b'Goor',7
+117,b'SOLFIHG12A8C1435D3',"b""Burn 'Em Down (LP Version)""",7
+118,b'SOYUEBW12A6D4FB3AC',b'Music By Numbers (2001 Digital Remaster)',4
+119,b'SOTEMIJ12AB01851E4',b'Kinky Woman',3
+120,b'SONXZLQ12AB018C1E4',b'Say Something',7
+121,b'SOPOPBY12AB017CA06',b'N.Y. Electric / Hunter Interlude',4
+122,b'SOVBRIV12A8C133996',"b""At the Fountain (Reprise) (Brian d'Arcy James & Ensemble)""",3
+123,b'SOUACBM12A6D4F9664',b'Moonlight Serenade',3
+124,b'SOUBALJ12A8AE46A0B',b'Chi Chi Man',6
+125,b'SOONLCB12AB0186303',b'In My Arms (Live Auditorio Nacional 08)',1
+126,b'SOUQVAA12AB018D21C',b'Passion_ Love & Pain (Feat. 25 Kids)',0
+127,b'SONBQII12A8AE46C07',b'T\xc3\xa4ysikasvuinen mies',6
+128,b'SOBPVNW12A8C135CB5',"b""I'm Hot""",4
+129,b'SOZZFUI12A8C133D6D',b'The Way',3
+130,b'SOSBDCE12A6D4FA0B6',"b""You're A Big Boy Now (Album Version)""",2
+131,b'SOXXWCR12A58A7D4FA',b'God Rest Ye Merry Gentlemen (World)',2
+132,b'SONLCEB12A8C144355',b'The Song from Moulin Rogue Where Is Your Heart',3
+133,b'SOHJFQF12A58A77855',b'The Way You Do The Things You Do',8
+134,b'SOXWMCM12A81C219D4',b'Sensemilla',7
+135,b'SOPHTXQ12A6D4FCE59',b'Exception To The Rule',0
+136,b'SOLFWDJ12A6D4F9CEB',b'Just As I Am (Arr.)  (Different From Track One)',2
+137,b'SONOBCB12A8C1397B9',b'Touch My Body',6
+138,b'SOBNMQD12A8C134323',"b""She's All I Ever Had""",6
+139,b'SORXHUD12AB0186030',b'Dj',1
+140,b'SOFDLKQ12AB018601E',b'Me Lo Dijo Adela',3
+141,b'SOAHTKN12A6D4FC189',b'Where You From',7
+142,b'SOLBIYE12AB0183932',b'Die Zeit',8
+143,b'SORTGHI12A8C13FB9A',b'Tell Me',4
+144,b'SODTAYW12AB01808D1',b'Lion Paw',1
+145,b'SOKMZQL12A58A76B19',b'Believe (Album Version)',0
+146,b'SOKTBLO12A8C13F309',"b""Den S'Adiko""",8
+147,b'SOODBAO12A58A790F9',b'Half Way Out The Door (Live)',9
+148,b'SOALCHT12AB0186A53',b'Honey Fingers',4
+149,b'SOQPAQK12A8C13B2DB',b'The Michael Vick Song',8
+150,b'SOAPICM12A8C143EC7',b'Gloria',6
+151,b'SOCSZVF12AB017F6BF',b'Canta Una Canci\xc3\xb3n De Amor',3
+152,b'SOWIAWZ12AB017C92A',b'Love You Again',3
+153,b'SOMROCL12AC4688AD6',b'Subida y entrada al cante',0
+154,b'SOWISMK12AC468BBF4',b'Point And Shoot (Demo)',6
+155,b'SOFULXE12A6D4F972B',b'Erick Sermon',1
+156,b'SOICKND12AB0188B0D',b'Soundtracks and Come Backs (radio mix)',1
+157,b'SORGDTN12A8C1460ED',"b""M\xc3\xa9lodie d'Amour""",8
+158,b'SOTNGXP12AB018664A',b'John the Revelator',2
+159,b'SOHPQKD12A8C143939',b'More',7
+160,b'SOWBRNM12AB018AD0E',"b""I'll Never Be Able (To Tell It All) (High Key-Studio Track w/o Background Vocals)""",8
+161,b'SORAWCY12AB0188DDA',"b""Venite Pa' Maracaibo""",9
+162,b'SOAKVYO12AB0187E78',b'The Kangaroo Theory',4
+163,b'SOYEFJG12A58A7B690',b'All Burned Out',1
+164,b'SOYMACN12A6D4F8AC1',b'What To Do',6
+165,b'SOTRGEN12AB018BE16',b'Girl Nation [Live]',6
+166,b'SOWZRAI12AB0186840',"b""You Know It's True""",3
+167,b'SOSDRZY12A58A7D3F2',b'But Not For Me',9
+168,b'SOTXXBT12A6D4F6B25',b'Hey Sexy Lady',7
+169,b'SOHVJJW12A81C2104F',b'Edo Pou Ta Leme',8
+170,b'SOMYGCE12A8C134338',b'Change The Way (Highlands Album Version)',1
+171,b'SOSNLRT12A6D4FC150',b'RAMUKA',4
+172,b'SOQDSYD12A813582AC',b'Raccolto',5
+173,b'SOFCEWK12A6D4F9A19',b'Baiao Malandro',9
+174,b'SOEFLFW12AB018D477',b'I Was a Human Bomb for the FBI',1
+175,b'SOKRSGZ12A6D4F7EAE',"b""I Can't Wait Until Tomorrow (Live)""",0
+176,b'SOZKBLW12A6701D33D',b'Expolodera (som dynamit)',1
+177,b'SOYZIJN12A8C142E33',b'Perro Faldero',8
+178,b'SOKWONZ12A8C13ADFE',b'Im Club',7
+179,b'SOHRWWQ12AC90727FD',b'Throwdown At The Hoedown (LP Version)',5
+180,b'SOGTEWJ12A8C13ABC5',b'Wisdom',9
+181,b'SOXTPST12A8C137716',b'Common sense',7
+182,b'SOJJAGC12A8C13F710',b'Sweet To Mama',9
+183,b'SOLDPSA12AB018DA62',b'Gross Throw-up Burp (Sonnerie_ Ringtone)',4
+184,b'SOZBUGT12AAF3B51FF',b'Serenata',9
+185,b'SOGPBPK12A8C134ECD',b'La Sitiera',3
+186,b'SOWMEYR12AB0182279',b'Scelxenak',1
+187,b'SOGHPNQ12AB017E3E2',b'Dirty Old Man',1
+188,b'SOAOJKH12A6D4FBDC4',"b""You Don't See Into The Blues Like Me""",2
+189,b'SODLIMH12A8C141988',b'Sanity Fades',7
+190,b'SOKJZNJ12A8C13294B',"b""When A Man's In Love""",2
+191,b'SOYUAZX12A8C144E42',b'Speak Low',5
+192,b'SOMWENG12A8C132D82',b'Superstar',6
+193,b'SOVONGN12A58A791F9',b'Love Oh Love (Live in Chicago)',6
+194,b'SOOCKWU12A6D4F7B43',b'MONDAY_ MONDAY',5
+195,b'SOGYYUL12A6D4FB2CB',"b""We're Out Of Gas""",5
+196,b'SOPTWGO12A8C137B0D',b'I Just Love Old People (Rocky Mountain Homecoming Version)',5
+197,b'SOVNHAU12A6D4F79F5',b'The World In My Hands (We Are One)',0
+198,b'SOUCZWJ12A8C1349FB',b'Pleasure Zone Mix',7
+199,b'SOFHZHN12AB0180EA6',b'Four Days Late (Studio Track w/o Background Vocals)',3
+200,b'SOQOPZX12A58A7E761',b'Mientras me quieras',7
+201,b'SOTJWZO12AB0185329',b'Alpha River',9
+202,b'SONDSXU12AB0182E33',b'Skymning',3
+203,b'SOQNKLO12A8C13EDA9',b'Salamanders In The Sun',6
+204,b'SOUMDHA12A6701DEB7',b'Down In The Jungle',7
+205,b'SOYYIGJ12AC90756DE',b'Goodbye Broadway_ Hello France',2
+206,b'SOSFTJL12A6701DEAD',b'Act Won (Things Fall Apart)',9
+207,b'SOVZRSW12A8C141AFC',b'Wie ein Eisb\xc3\xa4r sein',0
+208,b'SOCHFNU12A6D4FAE15',b'Te Quiero Mamma',4
+209,b'SOGFWQD12A6D4F6811',b'Sister Seagull (Live)',6
+210,b'SORTGDS12A8C143188',b'Exit People',4
+211,b'SOGAOHJ12AB018660F',b'So Nice - Original',4
+212,b'SODMADA12A8C139707',b'Master Mantrol (Dub / Instrumental Reggae Music)',4
+213,b'SOKCWAL12A8C13BA00',b'Am I Losing You',3
+214,b'SOTMCYN12AB0183054',b'Where Are You',1
+215,b'SOQINBV12A8C136A80',b'Maria Betania',5
+216,b'SOHAAZA12AC3DFB71C',"b'Inrtoduction ""Hing Hye Srder'",3
+217,b'SODDHIO12A8C140FBA',b'Con el chacacha del tren (Canc\xc3\xadon por Rumba)',6
+218,b'SOWTTZI12AB017E92B',"b""She's My Woman""",9
+219,b'SOPSDJE12AB0184BC7',b'Old Woman From Wexford',9
+220,b'SOZDFUE12AB018DE6A',b'Love_ Respect & Loyalty (feat. Sophie & Cait La Lee)',7
+221,b'SOZUAYO12AB0185072',b'Monologue With the Sky',2
+222,b'SODEDSI12A8C13225F',"b""1900's Madness #1""",8
+223,b'SOUWLEZ12A6D4F499A',b'Intro. (The Plan Album Version)',5
+224,b'SOTEVNM12A8C141858',b'After I Made Love To You',8
+225,b'SOWZGGJ12AAF3B583F',b'Love Like This',1
+226,b'SOZPIUC12A8C13630F',b'Shifter',7
+227,b'SOAZNGE12AB0182F30',"b""It's The Three Of Us Left""",3
+228,b'SOYZYNK12AB01807C4',b'Corre_ Corre (Keep On Running)',9
+229,b'SODTYSA12A8AE46D74',b'Freed From Desire (Alternate Mix)',7
+230,b'SOVJCHE12A8C146318',b'Around The World',4
+231,b'SOUASUS12A81C22D53',b'Girls',8
+232,b'SOIFGDT12A8C1362DD',"b""La Saint-Jean d'\xc3\xa9t\xc3\xa9""",3
+233,b'SOAICRG12AB01864FE',b'Fritzy & Helen Hanft (Album)',9
+234,b'SOVNGGG12A8C1391CF',b'Playboy Theme',6
+235,b'SOFMEPZ12A6D4F7D9A',b'Java Sparrow',3
+236,b'SOPBLEO12A8C13DF60',"b""Thanks God I'm A Country Boy""",6
+237,b'SOFSTCX12A8C139C09',b'Hesitation Blues',2
+238,b'SOOVPDF12AB0182A9A',b'Cumberland Gap',3
+239,b'SOEYEAY12A8C13C49E',b'Hasta Los Huesos',6
+240,b'SOLCFCO12AB018B764',b'Mood Indigo',5
+241,b'SOMFBRG12A6D4F9014',b'Run',8
+242,b'SOAZWHG12AB01861BA',b'The Same Old Innocence',6
+243,b'SORXSAJ12A6D4F92BA',"b""It Doesn't Matter Where_ Just Drive""",3
+244,b'SOJTZQO12AC960DB2A',"b""Don't Take Your Love Away From Me (Album Version)""",8
+245,b'SOFEETM12A8C13D151',b'Teenage Queen (Album Version)',1
+246,b'SOFEIMT12AB0186BE2',b'the tales of King Solitude 1:3',0
+247,b'SOEXCSV12A8C13D4EE',b'S*B*Y',1
+248,b'SOLXZLR12AB018459D',b'Love Happens Just Like That (LP Version)',8
+249,b'SOHYYEY12AB0185DAD',b'Losing True (Album Version)',0
+250,b'SOJEUFH12A8C1360BB',b'The Golden Rocket',4
+251,b'SOJUPKT12AAF3B381E',"b""La Nativit\xc3\xa9 Du Seigneur (1935) - 9 M\xc3\xa9ditations : I La Vierge Et L'enfant""",5
+252,b'SOQZZKI12A67020D38',b'Freedom (LP Version)',3
+253,b'SOMVRYP12AB0185AFF',b'Flight of the Elephant',9
+254,b'SOIBHJO12A6D4F7774',b'How We Get Down',7
+255,b'SORWASK12A6D4FA5ED',b'Ram\xc3\xa8ne Moi',8
+256,b'SOAVPSK12A58A7ED21',b'Animal Crimes',9
+257,b'SOCIACN12AB0189ADC',b'Storm',7
+258,b'SOVQEYV12AF72A06B2',b'No Quarter',6
+259,b'SOAQTZJ12A8C14343C',b'Canal de jonage',3
+260,b'SOGPIOY12A58A7F7AD',b'Save Me (Rolling Stone Original Version)',0
+261,b'SOGWPDK12A81C2242F',b'Unemployed Black Astronaut',1
+262,b'SOPAHBW12A6D4F7638',b'Entonces',9
+263,b'SOGRTXS12AB017CCFC',b'Soul',7
+264,b'SONEGFT12A8C142567',b'Heart Trouble',6
+265,b'SOVASWH12A8C13E3CE',b'Good Rocking Tonight',4
+266,b'SOQXARY12A8C13F68C',b'Piano E Viola',2
+267,b'SOFQVFL12A6701F8DC',b'6 Yrs (Album Version )',1
+268,b'SOICYHD12AB018A5B8',b'I Never Did No Hitler',7
+269,b'SOLYAED12AB01885EC',b'Dead End Sign',6
+270,b'SOKDPUY12AB0184594',b'God Gave Me You (Single/LP Version)',8
+271,b'SOUWZWV12AB0181ACF',b'Prayer Walk',3
+272,b'SOBBWJS12AB0182522',"b""C'est pas ma faute""",8
+273,b'SOGWIQR12A8C144C22',"b""It's A Secret""",6
+274,b'SOWYWXM12AB018C9E9',b'Only Just Begun',8
+275,b'SOWGFDH12AB017B2F5',b'Caroline (LP Version)',6
+276,b'SOCCBOH12A8C13E947',b'Some Kind of Record',6
+277,b'SOTEDAD12A8AE4735F',b'Forever',4
+278,b'SOFAJOM12A8C141EE4',b'New War',9
+279,b'SOQTOZK12A6D4F95AD',b'Felicidade',4
+280,b'SOICMNM12A6D4F89C3',b'If They Want It',7
+281,b'SOAPDWC12AC468BB3B',b'The Future',4
+282,b'SOYSZGR12A8C14015C',b'Cursed Angel Of Doom (Previously Unreleased&Re-Recorded Track)',1
+283,b'SOEOYBN12A6D4F9E2C',b'Turn The Heat Up',7
+284,b'SOVXKMW12A8C1414C1',b'Death Blow',4
+285,b'SOULPEW12A8C13E4F7',b'4 Minutes [Featuring Justin Timberlake And Timbaland] [Junkie XL Remix Edit]',1
+286,b'SOPWWAV12A8C13A825',b'Sickness',9
+287,b'SOFWWIA12AB01884A1',b'Sleepy Lad',3
+288,b'SOCWFVT12AB01890F8',b'Sea of Green',7
+289,b'SOTZIPQ12AB01803AA',b'My Plastic Heart (Plastic Operator Remix)',4
+290,b'SOQPFGN12A8C13C1B3',b'Mother_ Mother_ Mother_ Pin A Rose On Me',2
+291,b'SONFOEG12A8C13B8B8',b'True Fuschnick',4
+292,b'SOICLQB12A8C13637C',b'Exodus',7
+293,b'SOFDYGC12A6D4F9059',b'Inertiatic Esp',6
+294,b'SOIFMVY12A8AE467B1',b'October',3
+295,b'SOPNUVB12A8C13627D',b'Souffle 2',0
+296,b'SOGMTCP12A58A81E46',b'Go And Wash (Those Dirty Feet)',4
+297,b'SOGVDLQ12A58A7E3C5',"b""Comin' Home""",1
+298,b'SOAWLLC12AB01893BC',b'Gateway',3
+299,b'SOVVGSH12A8C14085F',b'Pode Me Chamar',8
+300,b'SOWJQRH12AB0186761',b'One About Heaven',6
+301,b'SOLWGCZ12A6D4FA8F3',b'Finisterre (Live)',4
+302,b'SODKKPS12AB018397C',b'The One Who Lives Inside Your Heart',3
+303,b'SOPFIWM12AB0186A0D',b'(Prayer Is The Key To Heaven) Faith Unlocks The Door',2
+304,b'SOIWQSF12AC468C3CD',b'Natural Light (Subliminal Self-Help)',5
+305,b'SOVBBUZ12A8C137B2D',b'Tsai Me Lemoni (2005 Digital Remaster)',1
+306,b'SODWYJZ12AB018240F',"b""America's Suitehearts""",6
+307,b'SOAEGFO12A6D4F87AA',b'Sound Clash (featuring Beenie Man) - FattaSly Extended Mix',4
+308,b'SOCKRKE12AB018DD02',b'Talk To Your Daughter (Album Version)',4
+309,b'SOTGNGT12A8C142826',b'Creation',4
+310,b'SOYWNEA12AB018826D',b'Soleil rouge',8
+311,b'SOGMSIS12A58A7C45D',b'Jericho  (Straight On Album Version)',9
+312,b'SOZVMQJ12AB018D482',b'I Got Rhythm',4
+313,b'SOSTESB12A6D4F9A66',b'You Better Stop',7
+314,b'SOXVFFI12AF72A1065',"b""Didn't Know Yet What I'd Know When I Was Bleedin'""",9
+315,b'SOFFOFH12A8AE45129',b'Hopelessly',8
+316,b'SOSAQJU12AC90755D2',b'Born To Be Together',6
+317,b'SOLKCWP12AB01890A4',b'100 Ways ( LP Version )',6
+318,b'SOFFUHF12AC4689476',b'Leo_ Are You Still Jumping Out Of Windows In Expensive Clothes?',0
+319,b'SOVNCCQ12A8C136CB3',b'Frankie & Sue',8
+320,b'SOGZMUF12A67ADAE79',b'Death Song',6
+321,b'SOYSKFE12A8C143AF3',b'Everyday Stranger',3
+322,b'SOVXQXN12A8C135FDC',b'No. 6 The Coombe',3
+323,b'SORUYQB12A81357343',b'Virgen De La Nieve - 14-String Guitar Solo',2
+324,b'SOXSURB12AB0184FBC',"b""Don't Speak""",7
+325,b'SOZDLOG12A58A7D3BD',b'Cross Currents',7
+326,b'SOKIZGL12AB018342D',b'You (Demo)',0
+327,b'SOFGXQV12A8C13C842',b'My Maria (LP Version)',2
+328,b'SOIQVDP12A8C13510A',"b""You'll Need Somebody On Your Bond""",5
+329,b'SONOKWX12AB0185FDC',b'Raggy Road',7
+330,b'SOFKMMF12AB018CE39',b'Concerto In A Minor_ Op 54: First Movement - Allegro Affettuoso - Andante Espressivo - Tempo I - Cadenza - Allegro Molto',5
+331,b'SOURKHT12A58A7F3E6',b'Tell The Truth (Album Version)',8
+332,b'SOSJRCR12A58A7BEC0',b'Contigo Si',3
+333,b'SOKEGNC12A6D4FB54C',b'Main Title',5
+334,b'SOHWRNV12A58A78E24',b'La Calle Del Gato Que Pesca',5
+335,b'SOIVFAV12AB0183D33',"b""Autumn's Ablaze (Live)""",1
+336,b'SOJWSCQ12A6D4FBAB9',b'Trumpet Blues And Cantabile',0
+337,b'SOFQOAR12AC4688316',b'Boulevard St. Germain',7
+338,b'SOIKNYT12A8C134A20',b'40',7
+339,b'SORIWKL12AC4689A11',b'Greener',7
+340,b'SOCKTEZ12A8C14553D',b'Shrinking',8
+341,b'SOLQVLD12A58A7610B',b'Secret Handshakes',6
+342,b'SONTKHG12A81C22D4C',b'Only You',3
+343,b'SOQSVRE12A8C13A31C',b'Burning Skies',8
+344,b'SOCYZXX12AB0183835',b'Hun Qian De Nu Ren',4
+345,b'SOSDKWG12AB0189E31',b'Prosperity In The U.S.A.',7
+346,b'SOVLJVC12AB01809F8',b'Let It Bang',1
+347,b'SOXUVQH12AAF3B388C',b'Your Love Takes Good Care Of Me',3
+348,b'SOFXRWD12AB018B56B',b'Flame It Up',4
+349,b'SODGNNL12A8C13D3E3',b'Love & Romance',4
+350,b'SOLZCZD12A8C13833B',b'Ba\xc3\xb1os De Budapest (Extended Remix)',1
+351,b'SONPLJV12AB0182571',b'One Step Forward_ Two Steps Back',4
+352,b'SOCDXPZ12AB01844FD',"b""I've got Vilking in Me""",5
+353,b'SOVNLPD12AB018F3F9',b'Mutter Erde',6
+354,b'SOIDSSZ12A8C142A76',b'Ride On Time (Original Version)',1
+355,b'SOUKRZV12AB0182E90',"b""Ain't That Something""",6
+356,b'SOUZOPT12A58A79B94',b'Bad Reputation (Originally Performed by Thin Lizzy)',1
+357,b'SOZDQHO12AB018512F',b'2StepN',7
+358,b'SOCVTCQ12AB01848FC',b'Song Sung Blue',3
+359,b'SONNYOP12A8AE45715',b'You Can Do Better Than Me (Album Version)',3
+360,b'SOFRVYQ12A8C137BAC',b'Ombre Et Lumi\xc3\xa8re',3
+361,b'SOGQIEK12AB0186792',b'That Girl',7
+362,b'SOKKZIB12A8C13F5DB',b'Seize the day',6
+363,b'SOUEDBC12AC90972E5',b'Warung Beach',1
+364,b'SOKJMKB12AB0189C12',b'Sunday Cream',4
+365,b'SOSIANM12AB018CC80',b'Only Human',4
+366,b'SOEKBBG12AB017E5D7',b'See The Big Man Cry',8
+367,b'SOCJGSX12AAF3B4DA9',b'Du machst mich irgendwann verr\xc3\xbcckt',1
+368,b'SOPIFJT12A81C221AC',b'Three Little Birds',4
+369,b'SOPZHFK12A8C135493',b'Adrift',3
+370,b'SOSAEZB12AB018DADE',b'My Last Date (With You)',3
+371,b'SOAMZKG12A8C13797C',b'Anna Bolena (1997 Digital Remaster): Alcun potria ascoltarti',4
+372,b'SOFGAJF12A8C141DA3',b'Fools Like You',3
+373,b'SOVGYIW12AB018186F',b'Breaking Of Day (Album Version)',4
+374,b'SOIPZVD12AB0186501',b'Get Up (Diplo Mix)',7
+375,b'SOSINEG12A58A7D528',b'Heartless',1
+376,b'SOEYALK12A8C143123',b'Foolish Little Girl',3
+377,b'SOPMXHY12A6D4F7DBC',b'Isle Of Inishmore - Part 1 (Air)',3
+378,b'SOCLHLD12A6701E65B',b'Leroy Bown',9
+379,b'SONJNMA12A6701DFDE',b'Inaudible Melodies',4
+380,b'SOVTIJE12AB017F8D9',"b""U Don't Have To Call""",8
+381,b'SOOYMFA12AB017E3C1',b'Yi Ba Xiang Shui Yin',7
+382,b'SOOTJIQ12A8C1368B9',b'A Veces Vuelvo',7
+383,b'SOWVTAJ12A8C13C6D5',b'Jingle Bells',3
+384,b'SOLDLRC12AC907269F',b'This Side Of Paradise',6
+385,b'SOBPTED12A6D4F99C7',"b""You Can't Hurry Love (Live)""",1
+386,b'SOOFHUH12A8C1340A5',b'Out Of This World',7
+387,b'SOYJHEW12A8C133A40',b'I Changed My Mind (DJ Spinna Remix)',1
+388,b'SOPYMLY12AC3DF67AE',"b""Keys To The Whip (Straight Pimpin' Mix)""",1
+389,b'SOWCJPI12AAF3B229C',b'Howell\x19s Delight',3
+390,b'SOBPMLZ12AB01819E3',b'Hey Little Girl (1949)',3
+391,b'SOTSKKZ12A6D4F71C4',b'Petite Fleur (Instrumental) (1996 Digital Remaster)',2
+392,b'SOZXKFE12A6D4F71FC',b'Witchcraft (1997 Digital Remaster)',7
+393,b'SOORJCV12A8C144A4E',b'Xue Hua Chao',3
+394,b'SOKPWEP12A8C137A4B',b'Fleetwood',3
+395,b'SOCFKSK12A8C140704',b'Chaos (Live - Bridgehouse Tapes)',1
+396,b'SOVPTBI12AB01879CF',"b""Anything's Better Than Feelin' The Blues""",9
+397,b'SONAWWG12A8C133380',b'40 OZ Quartet Part I',8
+398,b'SOQLWVI12A6D4F465F',b'Year 3_000 Blues (2002 Digital Remaster)',9
+399,b'SOPQJZR12AB01882BD',b'Kiss the Sky',6
+400,b'SOCFNPC12AB017CE1B',b'Over The Rainbow',8
+401,b'SOOZDSM12A8C13D39D',b'3 + 3',8
+402,b'SOGOVUN12A8AE46B43',"b""I Don't Know""",8
+403,b'SOCMYLF12A67020A4D',b'Tell Your Momma Come',6
+404,b'SODSFSH12A8C13EDFE',b'Anarchy in the UK (Sex Pistols) (Bonus Track)',6
+405,b'SOOAEZC12AAF3B28BD',b'Mary Had A Little Lamb',6
+406,b'SORVMCT12A6D4FA8F7',b'Gamble Calypso',9
+407,b'SODKOLK12A6D4FB6B1',"b""Gettin' Together""",4
+408,b'SOPKVPX12A8C13868F',b'To My_ Niechciani',7
+409,b'SODJQBY12AC46885B5',b'Wings Of Love',6
+410,b'SOOGOQH12A8C1415D7',b'What Would You Do?',1
+411,b'SOKRYXD12AC9075904',b'Anti fashion victime',8
+412,b'SODVLYP12A6D4FCCA3',b'Feriado',6
+413,b'SODZSJG12A6D4F87AF',b'Mambo Bacan',8
+414,b'SOZQCOR12A8151D3FC',b'For Free',4
+415,b'SOZPUVL12AB0188069',b'Haughtiness And Puerile Dreams',6
+416,b'SOCUSAL12AB0182310',b'Sugar Bush',5
+417,b'SOALDFI12A8C13A3A8',b'The 23rd Psalm',2
+418,b'SOIXICA12A58A7A9A5',b'Ali Baba',6
+419,b'SOXNASC12AB01874DF',b'If you Seek Amy',1
+420,b'SOJODCY12A58A7CE98',b'No Loafting',7
+421,b'SOWPJKA12A58A7D131',b'Paloma Consentida',3
+422,b'SOGHKOU12AB018C776',b'Leave Me Be',3
+423,b'SOCJPAI12AB0185DB1',b'Trash (live Paris)',3
+424,b'SOBLUYN12A8AE48167',"b""L'Aventurier""",6
+425,b'SOZDKSD12AB018A0AC',b'Cheshire Grin',1
+426,b'SOVVAVA12AF72A9926',b'Talk About Me',9
+427,b'SOAEBUV12A8C1335DB',b'Wishy Washy Woman',6
+428,b'SOFXGUN12A8C13B449',b'Yi Xiao Shi Chong Yin',8
+429,b'SOXXNBB12A8C13C633',b'Rumpu ly\xc3\xb6',4
+430,b'SODIJTB12A8C138FB2',b'Foreign Prince Of Tokyo',0
+431,b'SOKEHTJ12A8C13DFB0',b'Blessed Assurance (I Love To Tell The Story Album Version)',8
+432,b'SOPRTNI12AC4688294',b'King Tee Production',4
+433,b'SOLFCRY12A8C13F38F',b'Skinned Strings',5
+434,b'SOAWNUW12AC46877F8',b'The Bull Frog',4
+435,b'SOCPUJD12AC468AD40',b'Lusco',3
+436,b'SOWNKOB12A6310E331',b'Deus Ex Machina',5
+437,b'SOAUQNX12AB017B7CF',b'Your Touch Versus Death',1
+438,b'SOWCTVQ12A8C134C64',b'True Nature',1
+439,b'SORGIYZ12AAF3B3528',b'A White Demon Love Song (Soundtrack Album Version)',8
+440,b'SOXVIYL12A8C144517',b'Danser seule 2',3
+441,b'SOTGKDD12AC9072C18',b'House Music',7
+442,b'SOUKHSU12AB0185CB0',"b""It's So Fine""",9
+443,b'SOXGMCO12A8C139D60',b'Des Helden Widersacher',5
+444,b'SOOSHTY12AAF3B3082',b'A World In Fast Forward',3
+445,b'SOFUUNS12AB018A286',b'Little Bit of Inner Air',6
+446,b'SOSGKSM12A6D4F5626',b'Sweeter Than You',8
+447,b'SOGWIQS12A8C1339B1',b'Sweet Defeat',6
+448,b'SOSLVUL12AB017F892',b'Marseille (Live On Tour_ 1984)',1
+449,b'SOSAOWI12A6D4F7119',b'Seeing Is Believing',6
+450,b'SOKJUPL12A6D4F8383',b'Atrapados En La Red',6
+451,b'SOWPAXV12A67ADA046',b'Push It',6
+452,b'SOLEPCJ12A6D4F7404',b'On Tomorrow',4
+453,b'SOVSPXE12AB0185D78',b'B\xc3\xbclent & Mompfreed: Mompfreedonium',9
+454,b'SOQKTJJ12AB0181488',"b'Los De Arag\xc3\xb3n: ""Los De Arag\xc3\xb3n'",4
+455,b'SORGUQZ12AB0184B31',b'V',6
+456,b'SONUOCM12A8C141FF0',b'The Lost Name of God',6
+457,b'SOCSLKG12A6D4F5954',b'Through With You',8
+458,b'SOYFDOO12A8C133DA2',b'Red Apple Juice (LP Version)',3
+459,b'SOTJMAA12AB01862F2',b'Sugar Blues',2
+460,b'SOISBPM12A8C132C8E',b'Bomba Camara',7
+461,b'SOTGNAJ12A58A7F3FE',b'Who Do You Roll With?  (LP Version)',9
+462,b'SOWFMJA12AB01837B6',b'Hip Replacement',1
+463,b'SOTBZNC12A8C13FC85',b'Chalifot (Suits) (Live) (ft. Lioara Itzchak)',6
+464,b'SOCQGCO12A8C13D2E4',b'Zornig!',8
+465,b'SOMYFOE12AB0183244',b'El Chorro',7
+466,b'SOVPVKY12A6D4F6F86',b'Every Breath I Take',6
+467,b'SOTZUHM12A58A7E054',b'Here I Am',8
+468,b'SOTPQTD12A58A7E19B',b'Down And Out In Paradise',1
+469,b'SOMDWZC12A8C13A065',"b""I'll Meet You By The River (Southern Convention Songs Version)""",8
+470,b'SOFZGIT12A58A7CD2D',b'Loving By Heart',0
+471,b'SOURXDF12AB0180C6C',b'Cancion De Amor Eterno',2
+472,b'SOISJLZ12AC3DF6DE7',b'Firewater',9
+473,b'SONWLUL12A8C13AEEE',b'Overture/Blue Tahitian Moon',9
+474,b'SOYTIWN12A6D4FBA37',b'Ernestine',2
+475,b'SORWORW12A6D4FBBE2',b'No Soy Uno M\xc3\xa1s',6
+476,b'SODEAZT12A8C135EA2',b'Ur Sj\xc3\xa4lslig D\xc3\xb6d',9
+477,b'SOJWBVN12AB01868AA',b'Madeleine (feat. Thomas Fersen)',7
+478,b'SODVVZT12CF58273DB',b'The Christmas Song',8
+479,b'SOOTLIP12A6D4F95BC',b'Zhui Zhong',6
+480,b'SOJMRUS12A8C13693A',b'Rescue And Breakout',9
+481,b'SOYTUNS12A8C134C16',b'Honey',7
+482,b'SOAEHZK12AB0182ADF',b'20 horas de nada',3
+483,b'SOCHJTF12AB01829CE',b'Silver Bells',5
+484,b'SOPKWZP12A6D4F7DAF',b'Babes In Arms',6
+485,b'SOGRCIP12A8C1347C0',b'Round 7:  2138',9
+486,b'SOQFKZW12AB0181847',b'Kyana',6
+487,b'SOBMGUW12A8AE4726A',b'Cum',6
+488,b'SOESSPX12AB01807A0',b'Hello Hello',4
+489,b'SOGRSPK12A8A9D88E0',b'Subliminal ohne Naturgeraeusche',0
+490,b'SOSKXWY12A8C135248',"b""C'Etait Bien""",2
+491,b'SOJKSPB12A67AD93AE',b'Marcel',8
+492,b'SOCIALB12AB01811A2',b'Hunted',2
+493,b'SOJPQLG12A8C140660',b'Another Last Shot (Album Version)',6
+494,b'SOAQMCT12A8C1350DE',b'Turandot (2008 Digital Remaster)_ Act III - Scene I: Nessum dorma!',3
+495,b'SOELVHE12A8C135E02',b'Safety Net (Album Version)',9
+496,b'SOLJMGD12A58A76C3A',b'Isle of St. Helena',3
+497,b'SOJEECD12AB018BDA5',"b""I'll Be Yours""",3
+498,b'SOHUHHZ12AAA15E72E',b'Sarank\xc3\xa9gni',3
+499,b'SORHGGM12AB01878D5',b'Eurydice! ombre ch\xc3\xa8re!',2
+500,b'SOBNTOJ12A8C133435',b'Whip Fight',4
+501,b'SOCHJTF12AC4686775',b'A Talk With Dad',5
+502,b'SORLVXI12A8AE45E37',b'Prayer For The Dying (Live In Paris)',6
+503,b'SONKOFE12AB0187002',b'Gigantor',1
+504,b'SOACXUA12AB017C9A4',b'Rotate',6
+505,b'SOTVMJI12AB018638F',b'Distant Cousin',4
+506,b'SOLFRCH12A67021C28',b'Got To Tell The People',4
+507,b'SOGOBIT12AB01899DE',"b""If I'M Dreaming just Let Me Dream""",2
+508,b'SOQAUIF12AC46861CF',b'Better Days (Album Version)',6
+509,b'SOTBDNQ12A67ADBF2A',"b""The Hills Of Old Wyomin'""",5
+510,b'SOWOWTL12A6D4F9EB9',b'D\xc3\xa9sol\xc3\xa9 Pour La Poussi\xc3\xa8re',3
+511,b'SOKZCJC12AF72A8C79',b'Here And Beyond',1
+512,b'SOAQRFQ12A8AE46466',b'Love',8
+513,b'SOHZYBG12A5829168F',b'Apoliome Re Giorgi (Feat. Etsi De)',4
+514,b'SOWLJJD12AF729D3F5',b'Here I Am',8
+515,b'SOKPTHW12AB018AB51',b'This Very Moment',9
+516,b'SOPUCKL12A6D4FB5A6',b'The Coloness Of The Chain',0
+517,b'SOTNLYM12AB0181695',b'La Otra',8
+518,b'SOLXIWW12AC468805A',b'Feeling',1
+519,b'SODDBHT12AB0186B6E',b'Blue [Da Ba Dee] [Gabry Ponte vs. HiFi Blueprint Remix]',6
+520,b'SOERGHR12AAF3B2A52',b'Gotta Cut Out',8
+521,b'SOHKLFL12A6D4FA150',b'Kill Your Darlings',6
+522,b'SOPZACG12A6D4F9271',"b'Rinaldo : Act 1 ""Cor ingrato_ ti rammembri"" [Rinaldo]'",2
+523,b'SOJTAWE12A6D4F8EAC',b'The Trial_ Were You Scared? [The Lost Interview Tapes - Volume Two] (LP Version)',2
+524,b'SOQMALF12AAF3B4144',b'Be my Lover',7
+525,b'SODAMJC12A6D4F9E2F',b'Medicine',7
+526,b'SOEYFOZ12A67ADF3F4',b'The Road Goes On Forever',6
+527,b'SOFRTDY12A6D4F662E',"b""Don't Waste My Time""",6
+528,b'SONMZRR12AC4688C8C',b'From A Jack To A King',9
+529,b'SONEQCM12AB017BDE2',b'Sachmagehtsnoch',1
+530,b'SOZOULB12AB0184EBB',b'Love You to Pieces',1
+531,b'SOBNTNP12AB01815AE',b'Take That!',6
+532,b'SOPCZSP12A8C13F03A',b'Telegrama',6
+533,b'SOTTIHN12A8C1306A2',b'Meteores mouvement de Chroniques de la lumier',4
+534,b'SOHWZKE12A8AE477A9',b'Phrase',6
+535,b'SOMJFAX12AB017FAE6',b'Molten',7
+536,b'SOWQYXA12AB01816D6',b'It Only Takes A Moment (Album Version)',8
+537,b'SOMMHHW12A6D4F9932',b'The Daddy',4
+538,b'SOGAWLI12AB017E8AB',b'Zeno Beach',6
+539,b'SOPVZSM12A8C13E1F1',b'Hello Space Boy',6
+540,b'SOXWGTU12AC4686266',b'E. Warren',7
+541,b'SOKPJHH12A8159E967',"b""Life's Railway To Heaven""",3
+542,b'SOWKKCU12A8C13EDEA',b'I Wish I Was A Punk Rocker (With Flowers In My Hair)',4
+543,b'SOILWRT12AB0186D99',b'Earth Born',5
+544,b'SOKHEQY12AC468B3F9',b'Sannyasin',3
+545,b'SOZOHUQ12AB0187790',b'Dance of the Blue Devils',4
+546,b'SOHKITS12AB017EE8A',b'Gheera Away',9
+547,b'SOKHWZT12A58A7F198',b'My Harlem Lullaby (Album Version)',7
+548,b'SODAFAC12AB0184738',b'Shining',7
+549,b'SOADYKT12AC4689269',b'Booty Bounce',4
+550,b'SOULASI12A67ADC8DC',b'Little Is Much When God Is In It (South African Homecoming Album Version)',3
+551,b'SOGNYHP12AF72A777F',b'Come On Back Home',8
+552,b'SOESBKZ12A8C1445DA',b'Ring The Alarm',4
+553,b'SOGRSAV12A6701FBBD',"b""Just Don't Give A Fuck""",7
+554,b'SOHADGT12A8C13C740',b'Respect This Hustle (Explicit Album Version)',1
+555,b'SOYHFNB12AB0180890',b'Marching',9
+556,b'SOWYQOV12AF729E1A1',"b""You Don't Belong""",1
+557,b'SOCJTQO12AB017F6AC',b'Floating',4
+558,b'SOVXEVL12A6D4FBF1D',b'Midnight Jump',5
+559,b'SOXDWAN12A8C13489B',b'Village Dance',4
+560,b'SOTXDYK12AAF3B4B9F',b'Meeran Sad Laeen Je Toon',4
+561,b'SOLDPJU12A81C2281E',b'Que Suene Mi Campana',7
+562,b'SOOOBPU12A6D4FC54A',b'1001 Robots',5
+563,b'SOXPWVH12A8C13B68E',b'4 In The Morning',7
+564,b'SOWDRKM12AB01838C7',b'Noche De Paz',1
+565,b'SOTNMGN12A58A7A6F6',b'For My People',7
+566,b'SONDXDP12A6D4F866C',b'Cajun Baby (LP Version)',9
+567,b'SOGPGIO12A81C21C22',b'Leaving The Docks',5
+568,b'SODTNJI12A8C13AA3E',b'Alma_ Coraz\xc3\xb3n Y Vida',0
+569,b'SOTCLHP12AB0180336',b'Looking For A Kiss',1
+570,b'SOGDJWU12A58A7DA10',"b""Baal's Hymn""",9
+571,b'SOUBXDE12A8C136133',"b""St Patrick's An Dro""",6
+572,b'SODDJEB12A8AE479D8',b'Somewhere In Between',8
+573,b'SOAJDNN12AB01852E5',b'Novakane',1
+574,b'SOONMNI12A8C134D2D',b'God In My Bed',8
+575,b'SOXZVOF12AB0185AF0',b'No Hay Manera',7
+576,b'SOSJBHK12A6D4F8092',b'Dale Darrell Waltrip Richard Petty Rusty Awesome Bill Irvin Gordon Earnhardt Smith...Johnson_ Jr. (Live)',9
+577,b'SOEBQYQ12AB0183F46',b'Holli Holi Nach Kuriye',9
+578,b'SOVNUCB12A6D4F9F24',b'Defend You (Album Version)',6
+579,b'SOPLSRU12AB018860D',b'It Could Never Be You',8
+580,b'SOFMJHO12A58A7C148',b'In My Hood (Explicit Album Version)',4
+581,b'SOXEKMY12AC468ACF1',b'Big Trouble Upstairs',4
+582,b'SOQQWJM12AB01889D5',b'Siempre',7
+583,b'SOAJVDQ12A6D4FA38B',b'Attic Room',6
+584,b'SOBXTMM12AB018E916',b'The Story Of An Artist',3
+585,b'SOKKDSX12AB018866A',"b""Electric Phase / Hot 'n' Ready / Pack It Up 'n' Go / Cherry / Out In The Street / Let It Roll / Too Hot To Handle""",6
+586,b'SOUVLMO12AB018CE39',b'One Thing',4
+587,b'SOWYRWH12A8C13B9E8',b'You Can Make It (Album Version)',1
+588,b'SOFXWLP12A58A7C7B8',b'124 Stomp',8
+589,b'SOQDVLK12AB018B3A1',b'Many Weapons Many Men',1
+590,b'SOJMXIM12A6D4FB4FC',b'Sometimes',7
+591,b'SOQXAGF12A58A7BB46',b'Denk',1
+592,b'SOYPMHZ12AF72A31BD',b'Talk Of The Town',7
+593,b'SODUDOU12A8C139F69',b'So Say I',6
+594,b'SOLKWBH12A6D4FCF6E',b'Te Vas Angel Mio',9
+595,b'SOYLDNP12A8C13C135',b'A Movie Of A Placid Lake On A Moonless Night in September',0
+596,b'SOVRQHI12AB018A018',b'Ser\xc3\xa1 cuando regreses',3
+597,b'SOGCGLF12AC907171E',b'You Gotta Be Safe',7
+598,b'SODWQCV12A6701F288',b'Hold On',6
+599,b'SOBNCYQ12AB01876B5',b'Mykel And Carli',9
+600,b'SOJAGFU12AB0185693',"b""She's Got A Brain (Leli / Zimmerman)""",6
+601,b'SOCDOHI12AB018AD2C',b'Rancho Moreno',3
+602,b'SOCRCJB12A8C1340CD',b'When Rules Change',1
+603,b'SOXCASM12AC468DC25',b'Glisse',5
+604,b'SOPEGDX12AB017EA4F',b'Take The Time',6
+605,b'SOMGWOC12AB0184C27',b'Young Urbans',7
+606,b'SOUHUDD12A58A7C591',b'Together We Stand (Album Version)',8
+607,b'SOMKHUF12AB0180C5E',b'Believe In What I Say',7
+608,b'SOHTGBG12A6D4F6390',b'Kan Hai De Ri Zi',8
+609,b'SOLPOGC12AB017D41F',b'Cet Air \xc3\x89trange (Take 1 - Abbey Road Rough Mix)',6
+610,b'SOFAACS12AB0183131',b'Milkman_ Keep Those Bottles Quiet',4
+611,b'SOUCJNL12A8C134287',b'Psalm 27',4
+612,b'SOIANTQ12A8C13FEC4',"b""I Don't Like You""",6
+613,b'SOSMPOC12AB0188E55',b'Blow-Up (Outtake)',1
+614,b'SOIHBIR12AB0182A6C',b'Watched By An Angel',7
+615,b'SOZUHVM12AB0186FAD',b'The Wedding',8
+616,b'SOWRXNC12A8C1443EA',b'Still a Fool',4
+617,b'SOALJEB12AC4688E08',b'Glow',4
+618,b'SOZEWXT12A6D4F9917',b'Tercer Mundo',4
+619,b'SOCWZCV12A58A7AB87',b'Keep Hope Alive',1
+620,b'SODGOBW12AB01803D3',"b""I'll Be Around""",3
+621,b'SOIXCZJ12A8C140279',b'La Medalla',1
+622,b'SOMRLQO12A6D4FD322',b'Viralo Al Reves',4
+623,b'SOLRNEX12AB0180BDE',b'Carre Cutia',0
+624,b'SOBEMGL12A6D4F9A50',b'Getting Old Sucks (Album Version)',4
+625,b'SOIWLHH12A8C13B9EE',b'Radioland',3
+626,b'SOPQNJZ12A58A79564',"b""If I Couldn't Hold Back The Dawn""",5
+627,b'SOZOPPF12A8A9D9130',b'Voyage to eternal Life',6
+628,b'SOAZQKU12AB0185DF3',b'Tear It Up (LP Version)',6
+629,b'SOAFEJH12A6D4F971F',b'Forget Me Knots (Bailey Remix)',7
+630,b'SOMCFYL12A81C239F0',b'Again (Instrumental)',3
+631,b'SOAHRTY12AC468AF45',b'The Benevolent Path',6
+632,b'SOGIUWE12A670215DC',b'Come On (Sessions@AOL Version)',8
+633,b'SOOTBSZ12A8C140223',b'Rich Girl',1
+634,b'SOCRVCC12A6D4FB91B',b'The Urban Gospel',4
+635,b'SOLBVSR12AB0183E1A',b'18 De Noviembre',9
+636,b'SOAPTWU12A8C1409CB',b'See What Tomorrow Brings',8
+637,b'SOCISDR12A58A7EBF3',b'The Second One',7
+638,b'SOVBLUQ12A81C20920',b'Laakista humppa',1
+639,b'SOBBYXE12A58A772B2',"b""He Don't Care (He's Stoned)""",2
+640,b'SOBEHXG12A8C138D22',b'Rumour (Abstract Hip Hop Mix)',3
+641,b'SOELHNO12A8C13F09F',b'Ela Edo Kardia Mou',8
+642,b'SOGDAUG12A6701F302',b'Coral Fang (Album Version)',1
+643,b'SOUUQXL12A8C1339FE',b'One More Time (Kennedy Center Homecoming Version)',8
+644,b'SOCVUYU12A67AE217D',b'Locked Away',0
+645,b'SOEDFCY12A58A7AAE2',b'La Valse De La Cour (BOF Mayerling)',3
+646,b'SOJETVL12AC4686642',b'Sing Me Softly of the Blues',2
+647,b'SODSJMZ12AB0185E52',"b""Goin' To The River""",6
+648,b'SOJEGQW12AB018954A',b'Splitting The Seconds',7
+649,b'SOTQUUP12A8C13F049',b'The Sound From There',5
+650,b'SOOOLKN12A8C134363',b'Here We Go Again',0
+651,b'SODRGUS12A8C13312C',b'Best In LA',5
+652,b'SOGQKZF12A58A77342',b'La Bruja Chafa',9
+653,b'SOGBYCG12A6D4F6EC3',b'Shout For Joy  (Celtic Psalms Album Version)',3
+654,b'SORFIFZ12AB0189866',b'Min Xechnas (Forse)',9
+655,b'SOTZGQR12A8C13718B',b'Judge Harsh Blues (Tk. 1)',5
+656,b'SOPPDZH12AF72A283A',"b""I'm Glad""",8
+657,b'SOBEDHR12A6D4F86C2',b'Carolyn & Barnabas',2
+658,b'SOPBEBP12AB0181527',b'Famous One',8
+659,b'SOWBDLD12A58A80B1A',b'One Love',5
+660,b'SOVEWXM12AB0181FEC',b'Chanson Populaire',6
+661,b'SOLGLIH12A8C13E35E',b'Singing  Bowls_Saxophone & Voice',5
+662,b'SOHABTD12AB0186D83',"b""Ma vie n'est pas la tienne (album)""",7
+663,b'SOGOLHP12A8AE47A0D',"b'Theme From ""Come September"" (LP Version)'",4
+664,b'SOMIFOI12A6D4F6A76',b'Ladies And Thugs',7
+665,b'SOMECMH12A8C13833C',b'Endless Winter',1
+666,b'SOEZIKR12AB0184E1D',b'Power Shower',9
+667,b'SOBSCTH12A8C138C4B',b'Primal Forces',2
+668,b'SOWOUVW12A6D4FD0C8',b'Nothing (Album Version)',1
+669,b'SOVIMXL12AB01860DE',b'Let Me Be the One',9
+670,b'SOIXLNS12A8C146E42',b'Fucked',9
+671,b'SOKIBDZ12AB0183317',b'Take It For Granted',0
+672,b'SOTLQAD12A8C1432B4',b'Zephyrus',8
+673,b'SOEHKOF12A6D4FA454',b'Wichita Lineman (LP Version)',2
+674,b'SOGDDAA12A8C1391A9',b'The Same Man (For Matthew)',3
+675,b'SOBCMRK12A8AE488DF',b'Dangerously In Love Medley',8
+676,b'SOSESNX12A58A77DE9',b'Little Sunflower',7
+677,b'SOHICSA12AAA8C6B63',b'Elsa',8
+678,b'SOUVFZK12AB0182A35',b'The Court',2
+679,b'SOCOZST12A67020452',b'Parallel Universe (Album Version)',9
+680,b'SOIUUCE12A6D4F7E2B',b'Lullaby [With Ladysmith Black Mambazo] (Album Version)',5
+681,b'SOFVUCF12A8C141ABB',b'Walk On The Wild Side',3
+682,b'SOBMYTL12A8C134F0E',b'Magiki Vradia',8
+683,b'SOFWWBL12A58A79F8C',b'Danny',3
+684,b'SOWPHIW12A8C13554E',b'Army',2
+685,b'SODKGGR12A58A7DCB2',b'Mohair Locker Room Pin-Up Boys',7
+686,b'SOHHJYE12A8AE47599',b'Firestarter',1
+687,b'SOFSRCP12CF5CFD696',b'Testify',8
+688,b'SOILFHA12AB018A080',b'Kaliforn-Eye-A (Feat. Mike Muir)',7
+689,b'SOWOSFZ12AC468E52A',b'Enslaved By Propaganda',1
+690,b'SOQLQUB12A58A7E448',b'Rakkahin -Be My Love-',9
+691,b'SOBICZZ12A6D4F82E6',b'Sofrimento De Quem Ama (1997 Digital Remaster)',7
+692,b'SOCAOQG12A8C14464E',b'Hi De Ho',8
+693,b'SORDHXI12A8C13CAF4',b'A Void Of Lifeless Dreams',1
+694,b'SOKDVVW12A67ADD8AD',b'Make A Move On Me',7
+695,b'SOYJNAI12A8C14150D',b'War',7
+696,b'SOEFKLQ12A8C140047',b'This Is My Life',3
+697,b'SOLINYF12A8C141852',b'Fast Eddie',4
+698,b'SOSQPYX12A8C1388EA',"b""Playgirl's Love""",9
+699,b'SOGLLCP12A8C141135',b'I Will Bless Your Name',1
+700,b'SODWYEY12AC468C30F',b'Endless Light',3
+701,b'SOVTZPG12AC468E907',b'All Creatures Of Our God And King',2
+702,b'SOCQYLA12A58A79E8E',b'Hold On To Freedom',9
+703,b'SOAXGPF12A8AE46554',b'La Maquina Del Sabor',6
+704,b'SOTHXZR12A6D4FAA86',b'Advice',9
+705,b'SOOKYPR12AB018AD0C',b'The Darkness (Komor Kommando Mix)',7
+706,b'SOULTFJ12AB018BE7B',b'Yo Soy Abacua',6
+707,b'SOZFZDT12A6D4F7646',b'Let The Drummer Have Some',1
+708,b'SOYTBPL12AB018A8C5',b'Stars (GROWTH Ultraviolence Mix)',1
+709,b'SOFHPMO12A6D4F5BC0',b'I Will Call Upon the Lord',6
+710,b'SOTGMJA12AB0180F21',b'Open Arms',7
+711,b'SOZZPMT12A8AE47FF3',b'Chira',3
+712,b'SOGPIHB12A8C13EFB0',b'The Magic Violin',9
+713,b'SOKRZJY12AB0187E80',b'Human Being (1972 demo)',6
+714,b'SOLQAII12AB018312B',"b""Doodlin'""",2
+715,b'SOCTWCE12A8C135B80',"b""Wouldn't Last a Weeg""",9
+716,b'SOUXQLM12AC468E21E',b'Tune In',0
+717,b'SORHXWL12A6D4FB86E',b'R\xc3\xbclpsen Sie Eine Hauptstadt',9
+718,b'SOZKSGN12A81C20649',b'Hermitage',5
+719,b'SOBXSOO12CF5826708',b'All Hands On Deck part 2: Open Water [Album Version]',7
+720,b'SOBMWCD12AB017E764',b'Untitled',9
+721,b'SOATSTU12AF72A64DF',b'Stampede',1
+722,b'SONHFAB12AB018B767',b'The Climb/Paranoia',1
+723,b'SOQIURR12AB018E8B1',b'Nostalgia',5
+724,b'SOXAOZI12A8C139BB1',b'Collide',8
+725,b'SOYHNSI12A8C1346E2',"b""Tre sonetti di Petrarca: III. I' vidi in terra angelici costumi - sonnet 156""",5
+726,b'SOOGNRN12A8C13C8E0',b'Over The River',3
+727,b'SORCBTO12A8C13F22B',b'Stop!',0
+728,b'SOXFQVY12A58A7B456',b'Everyday',8
+729,b'SOXQXTB12AB018ADB0',b'Creep Live Version',2
+730,b'SOGGTHX12A8C13595D',b'Too Far From The Tree',2
+731,b'SOCNBNA12A58A79C7E',b'11th Street',9
+732,b'SOTUBHO12A6D4F808B',b'It Takes A Village (To Raise A Nut) (Live)',6
+733,b'SOFMHGN12A8C136BCB',b'Dance Of Romance',7
+734,b'SOBIQZV12A8C14345A',b'Amour noir N 7',5
+735,b'SOVHFHO12AC3DF6DC4',"b""Baby's Got A Habit""",6
+736,b'SOPXNHL12A58A79B0F',b'Need',0
+737,b'SOSTZFN12AC468E3F1',b'deine liebe',6
+738,b'SOLFRNH12AB0181C7E',b'Goody Goody',5
+739,b'SOSICQR12A8C131756',b'Money Blues',8
+740,b'SOQZNYW12A8C1411B3',b'Sou Vazo Diskola',9
+741,b'SOLDWJO12AB0180E63',"b""Baby_ It's Gonna Cost You""",9
+742,b'SODHTCY12A58A7F125',b'Karma',6
+743,b'SOBBQDL12A58A7A988',"b""100 Club 1996 ''We Love You Beatles'' - Live""",4
+744,b'SOQBCSM12AC4687CDE',"b""Pete's Crusade""",4
+745,b'SOEEKOU12AB0184A31',b'This Is A Stick Up',4
+746,b'SOBZHHO12A8C134565',b'To Pouli',7
+747,b'SOHFGYR12A8C13AE07',b'Vankina vapauden',8
+748,b'SOKMTOP12AC468980A',b'Emerald',4
+749,b'SOIZHEV12A8C14138B',b'Yo Quiero Contigo',4
+750,b'SOQBAQW12AAF3B35B8',b'Heartbreaker',4
+751,b'SOPEXAV12A8C144164',b'Black Connect 3',1
+752,b'SOCTLXF12A67AD9399',"b""L'idole des femmes""",6
+753,b'SOFBOOL12AB0183E42',b'Dio Nisia',7
+754,b'SOBLJWG12A8C135FC8',b'The Way Of Love (West Coast Diaries Vol. 1 Album Version)',6
+755,b'SOXMYIB12A58A7B6D7',b'La Rosa',6
+756,b'SOTPYPV12AC907281F',b'Lift Jesus Up',1
+757,b'SOZJGIC12AB018937D',"b""Life's Blood""",1
+758,b'SOCOKFY12AB017E434',b'All Or Nothing  (Wonderful World Album Version)',3
+759,b'SOFMGHL12AB017AD79',b'Slow And Low',4
+760,b'SOZBXVO12AB0188824',b'Jubilation T. Cornpone',9
+761,b'SOYJMKO12A8C142B82',b'Kicking And Screaming',6
+762,b'SOCHUHK12A6D4F7883',b'End Of The Beginning',8
+763,b'SOEJLYX12AC468C212',"b""Lookin' for My Baby""",4
+764,b'SOZZUJY12A6D4F5786',b'The Harbour',3
+765,b'SOMBNUM12A81C215EF',b'Terraplane Blues',2
+766,b'SOYSVSH12A8C143429',b'Toda Mi Vida',6
+767,b'SOMYXTW12A8C130319',b'Los Tres Glopes / The Three Beats (danza)',5
+768,b'SOSKWGF12A8C141C39',b'Explode',8
+769,b'SOXYFLY12AB0182A21',b'Fields Of Athenry',0
+770,b'SOCIYKT12A6D4F8085',b'New Love',4
+771,b'SOJKWAA12A6D4F8CAF',b'Tango',3
+772,b'SOBMGLG12A6D4F84D7',b'Anything For My Baby',1
+773,b'SOFSSHW12AAF3B3866',b'Hindsight',1
+774,b'SOKCCBG12AF72A9DF2',"b""I'm Your Money (12'' Extended Version) (2006 Digital Remaster)""",4
+775,b'SOZEHVM12AB018051E',b'I See The Light (2002 Digital Remaster)',8
+776,b'SOKTWWO12AB01841C2',b'Com Una Flama',4
+777,b'SOFFKLF12A58A78E0F',b'When It Stings',6
+778,b'SORRGXW12A8C139847',b'Lovely Day',1
+779,b'SOIGKLE12AB017B7F3',b'Red Barchetta (feat. James LaBrie_ James Murphey_ Sean Malone_ Sean Reinert & David Townson)',1
+780,b'SOFKQMW12A8C1326B5',b'Down South Blues',2
+781,b'SONXCLB12A8C138FEB',"b""Doin' It""",9
+782,b'SOZPDYY12A6D4FE551',b'All For The Sake Of The Song',3
+783,b'SOOIPTF12A8C139366',b'Apagon',7
+784,b'SONRUUU12A8C13C821',b'Looking In Your Eyes',1
+785,b'SORUUEV12A58A7B9FA',b'The Law Gonna Step On You (1931)',2
+786,b'SOUMYPM12A8C138F7E',b'Bitches For Breakfast',6
+787,b'SOHNJQL12AB018CC5C',b'Rude Bwoy Love (feat. Dj Fly_ Dj Traxx_ T.Williams)',6
+788,b'SOEZDOH12A8AE4787A',b'Des V\xc3\xb4tres',4
+789,b'SOLSWBA12A8C141B9A',b'Chiove',2
+790,b'SOOOWIC12A6701C7E5',b'Crazy',6
+791,b'SOCAZDF12A58A7AF5F',b'It Came Upon A Midnight Clear',8
+792,b'SOUIITE12A6D4FC4EA',b'Up on the House Top',9
+793,b'SODKCCT12A67ADA321',b'Speechless',7
+794,b'SOTXCIT12AB0180723',b'Merry-Go-Round',5
+795,b'SOFFGJY12A8C138CA8',b'Dos Mujeres',3
+796,b'SOLAEZZ12A58A77692',b'So Far So Bad So What?',1
+797,b'SOJBRNM12A8C134D10',b'Upon This Rock (Fire And Ice Version)',4
+798,b'SONCSNW12A6D4F62D7',b'Momentum',6
+799,b'SODMDHD12AB018C558',b'Sincerely_',5
+800,b'SOXMFQR12AC4686E84',b'Hydraulic Pimp',4
+801,b'SOORCRP12AC468E63A',b'Fifi',8
+802,b'SOPZQPR12A8C137F34',b'Je Suis Une Cigarette',2
+803,b'SOEAXVC12AB018CBE1',b'When I Think About Love',9
+804,b'SOLTJYW12A81C23712',b'Lost',4
+805,b'SOWSGUG12AB0187CC7',b'Listen',4
+806,b'SOJILXR12A8C141B4E',b'Nieve',6
+807,b'SOLXXZC12A58A7B02D',b'6th Chakra: Keynote A - Chakra Suite (Solo Electric Piano Plus Synths)',0
+808,b'SORDRVY12AB0184281',b'Put Down Your Weapons',7
+809,b'SOERIII12AC468C196',b'Una dolce melodia',8
+810,b'SOZCQBJ12A8C13E811',b'Te Necesito',3
+811,b'SOAGRFG12AC468768A',b'Les D\xc3\xa9penaill\xc3\xa9s',3
+812,b'SOUNGLM12AB0187A31',b'Love Me',6
+813,b'SOVQYSA12A8C139616',"b""Heut' Nacht""",5
+814,b'SOZWCKB12AB0186C5B',b'Diamond Eyes (Album Version)',9
+815,b'SOZLAER12A58A7CA05',b'The Witching Hour',8
+816,b'SORUEDG12A8C13CFEF',b'Leather Prowler',1
+817,b'SOUSMDW12AB0181781',"b""L'Amour Existe Encore""",0
+818,b'SOPPWBB12AB0190513',b'Underarms',4
+819,b'SOGUAJP12AC468D88E',b'Accept Me',5
+820,b'SOWICJC12A6D4F918D',b'Palavras',0
+821,b'SOCCFVI12A6D4F9646',b'Me Duele',7
+822,b'SOTMVUQ12A6BD53721',b'Nothing To Hold Me',7
+823,b'SOSUJKM12A67ADC18D',"b""Rick's Cafe""",8
+824,b'SOLYUYS12A81C23F3A',"b'Piano Sonata No. 29 in B flat major Op. 106  ""Hammerklavier"" (2005 Digital Remaster): II.     Scherzo (Assai vivace) - Presto'",2
+825,b'SORLBRI12AB0183F0F',b'For All We Know',4
+826,b'SOJQBVB12A8C142CCE',b'Coma',4
+827,b'SOHMAJU12AB0186744',b'Life',3
+828,b'SOJBELS12A6D4FCE9A',b'No Such Thing As Control (Album Version)',9
+829,b'SOTZPSF12A8C13BE4F',b'Focus',1
+830,b'SOSGKJE12A6D4F7920',b'My Baby (Feat. Kanye West)',8
+831,b'SOHGJUI12AF72A724F',b'2 + 2 = 5',9
+832,b'SODEFVL12A6D4F668A',b'The Flight of the serpentarius',5
+833,b'SOXYAJK12AB0182B59',b'Another Lover',1
+834,b'SOTETYU12A8C1330E3',b'The Last Man On Earth',3
+835,b'SOFBNZY12A67ADAE8C',b'Fear The Sea',6
+836,b'SOWESXJ12A8C136BEC',b'Beni Aglatma',8
+837,b'SOMPKZM12A8C13F8B4',b'Ride Out Dip',4
+838,b'SOFHCUH12AB0183CA2',b'Free',8
+839,b'SOWMVSQ12A8C13E1DC',b'Malice',1
+840,b'SOCXBQG12AF72A7CBD',b'Arco Arena',3
+841,b'SOXZLHE12AAF3B5227',"b""It Ain't No Use""",3
+842,b'SOPJFDO12A8C139B94',b'Red Gun',0
+843,b'SOHQDNH12AB01823A5',b'Tuck That Sh*t',6
+844,b'SOFQRCP12A8C13675B',"b""Why Don't You Do Right (Album Version)""",3
+845,b'SOIJCNT12A8C133677',b'I Want You',7
+846,b'SOWCUAM12AB0184D1D',b'Le Droit Des P\xc3\xa8res (Live Electrique)',6
+847,b'SOQQWFU12A8C132F42',b'Roses',6
+848,b'SOWXBLE12A6D4F8EE8',b'The Cool (Amended Album Version)',1
+849,b'SOTNHJI12A8C135862',b'Long Way From Home',1
+850,b'SOTEKKG12AB017E22D',b'My Love',3
+851,b'SOOTFLU12A8AE45D80',"b""Chanson D'Amour""",8
+852,b'SOXHXRG12AC46898A7',"b""Words- Till the mornin' comes Mix""",7
+853,b'SOUMBKO12A8C135722',b'Reefer Head Woman',3
+854,b'SOYYLQI12A58A7FADA',b'Having A Little Talk With Jesus',6
+855,b'SOUQADA12AB0184E60',b'Coffee Blues',6
+856,b'SODWJQR12A8C138C30',b'Kuolema Tekee Taiteilijan',3
+857,b'SOUJGOR12A58A7BD21',b'Bside',7
+858,b'SOUOFSG12AB0187C82',b'The Power Of',1
+859,b'SOPTODT12AB018CE5C',b'Good Morning Captain',9
+860,b'SOHYVKJ12A6D4F6FAC',b'No Love To Give (LP Version)',0
+861,b'SOHLPTB12AF72A6B20',"b""Ain't She Sweet""",9
+862,b'SOVOEOG12AF729F7DF',b'Human Being',9
+863,b'SOCHVQG12A6D4FB261',b'Jumke',7
+864,b'SOEZMXF12A67ADB0F8',b'Festival Of Holi',4
+865,b'SOAXXGD12A8C134182',b'Please Love Me',9
+866,b'SOFGZBJ12AB01890B0',b'Twist Y Gritos (Twist & Shout)',9
+867,b'SOAAXAK12A8C13C030',b'Immigrant Song (Album Version)',1
+868,b'SOLMCFH12A58A7FACE',b'Under The Weather',3
+869,b'SOWDXXY12A8C133818',b'Free (lp)',4
+870,b'SOUXUOP12A8C14318F',b'Say Goodbye',6
+871,b'SOIWHMK12AB017D7E0',b'Fleur De Paris',9
+872,b'SOOUBMT12A8C13DB6D',b'90er',1
+873,b'SOXJPKH12A8C134149',b'Jahuu_ Gandiva laulaa!',1
+874,b'SOBMAUD12A6D4F9181',b'Itinerario',8
+875,b'SOBUDOC12A6D4F8AC2',b'After All The Love Is Gone',6
+876,b'SOZGCTW12A6310E84F',b'Music And Politics',5
+877,b'SOHVKVP12A6D4F827A',b'M\xc3\xa1s Y M\xc3\xa1s',3
+878,b'SOUZIIN12AB017FB85',b'Stephanie Says',3
+879,b'SOWXUDU12AF72A1001',"b""The Lord's Prayer""",5
+880,b'SOUTNUJ12AC46861D4',b'Raw Power',6
+881,b'SOQSDOW12AB017CF41',b'Sangria (Nomadbrothers Remix feat. Rio)',7
+882,b'SOUWJGL12AF72A4ED8',"b""I'm Chillin""",4
+883,b'SOLNLFG12AC468806E',b'One Moment With You',0
+884,b'SOPXUPT12AB0184A87',b'Nuestras Sevillanas 1',9
+885,b'SOMJGXB12AB0184386',b'Come Dance With Me',8
+886,b'SOCXOJF12A6D4FCD91',b'Strip The Soul (album version)',6
+887,b'SOFZXDA12AB01800C6',b'La Blessure',3
+888,b'SOTWPCU12A8C138514',b'Te Quiero Mas',4
+889,b'SOWACWC12AB01876FA',b'Head Banger',1
+890,b'SOMBFCS12A8C13E5AF',b'Alla Mot Alla',8
+891,b'SOPJOQM12A6310F137',b'Every You Every Me (Infected By The Scourge Of The Earth)',7
+892,b'SOIFTHQ12AF72A4829',"b""Fly Talkin'""",7
+893,b'SOLCUUN12AB0187AE7',b'Wives ( LP Version )',4
+894,b'SOBIPFA12A8C136C56',b'Indo',5
+895,b'SOWBMKR12AB0189094',b'Losing track',6
+896,b'SOCMIGC12A6702090E',b'Celluloid Heroes',8
+897,b'SOYJVCQ12A81C22C90',b'Credits',1
+898,b'SOTOSFD12AB017A7E1',b'Bed Of Roses',6
+899,b'SOOAIOT12A6D4FE412',b'You\x19ll Rue The Day',5
+900,b'SOSKAIS12A81C237B8',b'Bonita',3
+901,b'SOZYPNV12A6701E3B8',b'First Day (Album version)',7
+902,b'SOCCQJD12A58A7D627',b'Jole Brun',4
+903,b'SOAQKKK12A58A7859A',b'East Bay Bounce',7
+904,b'SOKBKCA12A6D4F7539',b'One Night Alone',3
+905,b'SOJLTFB12A6D4F91FC',b'Forever',6
+906,b'SOHEUFA12AB017F9A0',b'Teska (Teska)',7
+907,b'SOJIUVL12AB01867D9',b'All The Way',5
+908,b'SORCBKI12AAF3B2DF2',b'Why',5
+909,b'SORDRKC12AB0189339',b'Infant Dreams',5
+910,b'SOMRJYH12A8C13165E',b'Everyday Struggle (Bonus)',7
+911,b'SOLWVPV12A8C136FC7',b'Soda Pop',4
+912,b'SOIIAIE12A8C13C5FC',b'You Were There',3
+913,b'SOMAWGO12AF72A64F8',b'\xc2\xa1Hola_ Peque\xc3\xb1o Ser!',3
+914,b'SOJMRHG12AB018B633',b'Un Minuto Contigo (One Moment)',2
+915,b'SOJHDDU12A8C143F70',b'It Must Be Everywhere (Complete Version)',7
+916,b'SOVZUYU12AB0183FF1',b'Tennessee Central Number Nine',3
+917,b'SOYQLYS12A8C143355',b'Mon Legionnaire',5
+918,b'SOCRDNK12AB018A09D',b'Kissing Game',4
+919,b'SOISVOJ12A6D4F841D',"b""Everybody's Someone (Gateway Mix)""",8
+920,b'SOYLJVH12AB0183749',"b""Don't Stop""",4
+921,b'SOBAUYA12AB0183790',b'BOOM!!!',4
+922,b'SOHCEBC12AB018752F',b'Other Side of You',1
+923,b'SOALARU12A8C131632',b'Brooklyn On A Saturday Night',5
+924,b'SOIFMLF12A6D4F845B',b'Le Bug (Live 2005)',7
+925,b'SOLQVOX12AB018BF56',"b""Lost in Marrakesh with Entropik (Pathaan's Mirage Mix)""",7
+926,b'SOVIKHZ12A58A787E1',b'Estimate',4
+927,b'SOBRVEP12AC468E74B',b'Volvere',0
+928,b'SOZSSUG12AB0183C6E',b'El Gato Confite',0
+929,b'SOHUJJI12A67ADA394',b'Love & Understanding',7
+930,b'SOMKWFY12A6D4FAB0F',"b""We're Not Gonna Bow""",8
+931,b'SOJAGYS12A58A7B904',b'He Was Here',0
+932,b'SOTXKYU12A6D4FCC0B',b'In Hell (Album Version)',1
+933,b'SOVATLZ12A8C135595',b'The last havoc',7
+934,b'SOWPYIK12AB0184395',"b""Ralph's Rhapsody""",5
+935,b'SOKPLZK12A8C14340D',b'Up Jumped The Devil - Live',9
+936,b'SOEWNDB12AB017CF92',b'Cry Of My Heart',0
+937,b'SODCQJH12AB017DDF6',b'Va Por Usted',9
+938,b'SOGXQSQ12AF729F79A',b'We Are The Ones (Lounge Version)',8
+939,b'SOGHIGJ12AC468AA66',b'Stand By Me',6
+940,b'SOZUTHQ12A8C13C4C9',"b""Mefistofele/Spunta... l'aurora pallida...""",5
+941,b'SOOYYUG12A8C1440CA',b'High On the Mountain',3
+942,b'SOGAMCD12AB01803F7',b'Beauty Supply And Demand',7
+943,b'SOFKRNR12AB01861AE',b'Signs Can Hear All',3
+944,b'SONGHHF12AB0182BBA',b'Falling Apart',2
+945,b'SOHQECR12A8C133DDA',b'Deep Blue',5
+946,b'SOWDYRS12AC3DF83E2',b'Superstar (feat. J-Noxx)',4
+947,b'SOXHWKH12AB0184221',b'Cycle Time',6
+948,b'SOOHKAI12AB0183D21',b'New Milk Cow Blues',5
+949,b'SOPZDPO12A8C131E41',b'I Will Turn Your Money Green (Take 1)',5
+950,b'SORMBGR12A8C13B537',b'L.S.M.',1
+951,b'SODFEVS12AB018C60A',b'Baila Cari\xc3\xb1o',3
+952,b'SONVGOV12AB018114E',b'Genius Of Love 2002 (featuring Tom Tom Club & Biz Markie)',4
+953,b'SOAQFSL12A8C13C2C4',b'Is It Love',8
+954,b'SOZDKSJ12A67ADA37A',b'To Sir With Love',4
+955,b'SOSAZLT12A8C13B90F',b'Llorando Por Amor',3
+956,b'SOSEMIH12A8C145A00',b'Sauer',8
+957,b'SOJHFYS12A58A7BC23',"b""Heart's Grown Cold (LP Version)""",6
+958,b'SOSBPUO12A58291CF2',b'Transmission (Album Version)',1
+959,b'SOUIKBJ12A58A791A9',b'It Gwine Dreada',3
+960,b'SORVXDK12AC3DFA201',b'Marrakech',3
+961,b'SOGQTJR12AC468D18E',b'Mua rakastan',1
+962,b'SOLZXTN12AC468E040',b'Hurry Up And Come',6
+963,b'SORXCLZ12A8C1345EE',b'Sunday In Marin',8
+964,b'SOJAWRM12AB017C17B',"b""When There's A Will_ There's A Way""",7
+965,b'SOXZUND12A8C1333AA',b'Da Da Da Da',1
+966,b'SOINYEU12A6D4F834F',b'Quan Tou Tang',3
+967,b'SOFXCRD12A8C13457E',b'TU MIRADA',0
+968,b'SOIWZKY12AB0183F0D',b'Cierra Los Ojos Y Juntos Recordemos - Original',0
+969,b'SOYBTCQ12A8C1323B8',b'Destroy Everything (Album Version)',7
+970,b'SONXJXB12A8C138151',"b""Love Is Gone (Eddie Thoneick's Liberte Mix)""",9
+971,b'SODGYDA12A8C140E96',b'Hired Security',4
+972,b'SOVMQSA12A58A789E3',b'The Gre(A)t Depression',9
+973,b'SORFWYL12A8AE47846',b'Slipping Away/Here Is Kazmeyer',0
+974,b'SOGOYFU12AB018D9EF',b'See You in the Morning',8
+975,b'SOFRWTI12AB0184792',b'Comfort Creek',8
+976,b'SOFVUDX12AB017E4BB',b'The Unidentified Flying Object',9
+977,b'SOASIDX12AB0185463',b'The Carnival  feat. Japjit Kaur',1
+978,b'SONCCNP12AC3DF5716',b'Keep Walking',8
+979,b'SOWMQGR12A8C1458A2',b'4 Words (To Choke Upon)',7
+980,b'SOVHTXW12A8C141298',b'Xenophobic Hate Machine',1
+981,b'SOPQYNE12AB01818B5',b'Feverish',6
+982,b'SOCWCQL12AF72A3A5A',b'Syrup Sipping (Banner Beat Break)',4
+983,b'SOTZEAA12AC468E553',b'COLD MORNING',3
+984,b'SOORIJA12A6D4F9A02',b'Is It Wrong',0
+985,b'SOUTKII12AAF3B1D4F',b'learn (Album Version)',7
+986,b'SOEISBO12AC468ABAB',"b""Party Favours (Dee Dee's Flukey Remix)""",4
+987,b'SOGSJTT12A8C13B4F7',b'Parabolics Studies 6',1
+988,b'SOKDTTE12AB0188F58',b'Sudenkorento -Life On Mars-',3
+989,b'SOBFZKC12A6D4FC1F7',b'Man No Sober (LP Version)',4
+990,b'SOGLHIC12A6BD56BBF',b'Fear Factor (Shiny Happy Jihad)',4
+991,b'SOJUAQB12AAF3B5137',b'Inti Guauqui',2
+992,b'SOBTJWY12AB017D2C4',b'Show Some Love Where Is The Love feat. MackaB',7
+993,b'SOKTIIM12A6D4F9CE4',b'Dancing With Tears In My Eyes 2004 (Nova Mix (Club Version))',9
+994,b'SOGAIRT12A58291E2D',b'Like I Never Loved Before',3
+995,b'SOFKPSL12AB018830A',"b""I Don't Love You Anymore""",4
+996,b'SOCIDHY12AB017ED4E',b'Dying Under A Binary Star',1
+997,b'SOVEPPC12AB018AE2F',b'Brivdiena',3
+998,b'SORVBMW12AC4689175',b'Titan',1
+999,b'SOBXWUS12A58A7DF5C',b'Please Come Out Tonight',8
+1000,b'SOAIWTO12A8C1419E7',b'LOVESICK - Obsession in \xc2\xbe Time',3
+1001,b'SOSFWSU12A8AE46BB9',b'Carita De Rosa',6
+1002,b'SOCWAFA12A8AE48A78',b'Wake Up Call (Album Version)',1
+1003,b'SOKFBEQ12AC960A01C',b'The Object Of My Affection',2
+1004,b'SODFAUU12AC95F0330',b'Big World',6
+1005,b'SOWWSFI12A6D4F8B25',b'All Alone (Live)',6
+1006,b'SOYOTEG12A8C1388DB',"b""World Comes Tumblin' Down""",1
+1007,b'SOILXAQ12AC4687421',b'Jesus Is the Lord',4
+1008,b'SOAIAWN12AB0187356',b'Pobre diabla (Directo 09)',6
+1009,b'SONDYJW12AB017FD61',b'Llegaste T\xc3\xba',1
+1010,b'SOUMIWY12AB0186040',b'Where Are You?',5
+1011,b'SOHLLRA12A6D4F7DBA',b'Zambele (1997 Digital Remaster)',8
+1012,b'SOZLWMN12A6701D2E5',b'Lay All Your Love On Me (LP Version)',4
+1013,b'SOQYZUT12A8C132660',b'Ella Speed',9
+1014,b'SONLDTF12AAF3B438B',b'The way to Peace',8
+1015,b'SOBIIYZ12A8C13ED05',b'Chatma',7
+1016,b'SOYEMEE12A8C144815',b'How It Begins',1
+1017,b'SOTRPCV12A6D4FAB31',"b""I Don't Wanna be a War Hero""",1
+1018,b'SOVLMTZ12AB018530D',b'True Love',9
+1019,b'SOBWDGC12A6D4F8AFC',b'Ma Pr\xc3\xa9f\xc3\xa9rence (Live)',8
+1020,b'SOPVOHK12A6310D84C',b'Automatic',9
+1021,b'SODXQQY12A8C13850E',b'Nocturne For Piano No. 5 In B Flat Major_ Op. 37',2
+1022,b'SOFUBAO12A8C139CAB',b'We Got What You Want',4
+1023,b'SOBJUHE12A8C134796',b'Introitus: Requiem: Dies Irae',2
+1024,b'SOGHVNS12A8C139B59',"b""Christmas Won't be the Same Without Johnny""",2
+1025,b'SOSFRGF12A8C13667A',"b""You're My First Lady""",3
+1026,b'SOLXFEV12A58A7AE81',b'Bestio Tergum Degero Pt. 3',1
+1027,b'SOTQLJE12CF58274B5',b'Kick_ Push II (Album Version)',1
+1028,b'SOYTWDP12A8C138214',b'Hold On',7
+1029,b'SOZHXPN12A8C1360A0',b'Snapshot Samurai',6
+1030,b'SONFNOG12A58A78C05',b'American Girl',7
+1031,b'SOANYAU12AB01881B7',b'Shake That Thang',4
+1032,b'SODKENB12A6D4F46AF',b'50_000 Miles Beneath My Brain (Live)',6
+1033,b'SOUIYEY12A8C13A587',b'Mirame A La Cara (Version Salsa)',6
+1034,b'SOLHRQM12A6D4F6CCF',b'Lappi Pt IV Eti\xc3\xa4inen',3
+1035,b'SOOIBOK12A58A7ACC6',b'22 Going On 23',1
+1036,b'SOTLBOG12A6D4F8AD5',b'Liian v\xc3\xa4h\xc3\xa4n aikaa',8
+1037,b'SOBSIEU12AB017D5E7',b'DJs Are The New Rockstars-Live Mashup Mix 7',1
+1038,b'SOZOEJC12CF5CFAD99',b'Estoy Aqu\xc3\xad',7
+1039,b'SOKFCAA12AB017EF43',b'Baby Mama',4
+1040,b'SOPHBYD12A6D4F6980',b'Stainless Steel Gamelan',9
+1041,b'SOZLTQI12AB018143A',b'Private Dancer',6
+1042,b'SODBRVA12AF72ACA09',b'Michael Nobody aka Poetic Death',7
+1043,b'SOLSEJO12AB0187C4C',b'Red Castle',7
+1044,b'SOEAVHU12AC468F2E3',b'Brown Eyed Girl',0
+1045,b'SOFVVLV12A8C140061',b'Raindrops Keep Falling On My Head',3
+1046,b'SOIMLOI12A8C1383C0',b'Live Then Lay',7
+1047,b'SOEWPSQ12A8C132E05',b'Turn Yourn Radio On',6
+1048,b'SONRIJJ12A6701FD0A',b'Marvel Hill',7
+1049,b'SOCVKXU12A6D4F9A11',b'Mi Vida Se Pinto De Gris',9
+1050,b'SOSVXWK12AB01886ED',b'So Long (Originally Performed by Abba)',6
+1051,b'SOJAVUK12AB017EC7E',b'Start Me Up',1
+1052,b'SOFVSBH12AB0186671',b'Lucky Fellow - Original',4
+1053,b'SOMRIAD12AB018388E',"b""C'est pour vous que je chante""",6
+1054,b'SOHTZSS12A6D4FCAC2',b'Serenata',8
+1055,b'SOJBKMX12A8AE47E72',b'Got The Blues',5
+1056,b'SOPCQZO12AB018596A',b'Donnez-nous des jardins',3
+1057,b'SOIYKGB12A8C1384B0',b'Mr. Crump',9
+1058,b'SOFCTSL12AB0181111',b'Love Is What We Make It',3
+1059,b'SOYTQSZ12A8C13A2FD',b'New Round And Round',5
+1060,b'SOMWTKR12AAA15D94E',"b""Let's Get High (Yves Larock Radio Edit w Rap)""",6
+1061,b'SOCLRHR12A8C134808',b'Chicago Bound Blues',2
+1062,b'SOEKAOG12AB0188100',b'Falling Stars',4
+1063,b'SOFOCZO12A81C1FC28',b'The Lakes Of Pontchartrain',0
+1064,b'SOYDXQB12AAA15D4F7',b'Fly Away (Instrumental)',7
+1065,b'SOXECRP12AB017EADA',b'Psalm 27',8
+1066,b'SOSMFPM12A6D4F8577',b'Papa Legba (2005 Digital Remaster)',4
+1067,b'SOLHSSM12A6D4F97F4',b'Liquid Mercury',7
+1068,b'SOBFVUR12A8C137745',b'Herz an herz (Live Version)',6
+1069,b'SOPPWUZ12AB0180E3C',b'I Know Where I Am Now',3
+1070,b'SOKUCKC12A8C1315C4',b'Badrock City',4
+1071,b'SOYCCVP12A6701E6D1',"b""Waitin' For The Wind""",3
+1072,b'SOVRODR12AB0189A94',b'Suburban Living',6
+1073,b'SOJHUKL12A58A7E7FD',b'Gloria (In The Name Of Love Album Version)',6
+1074,b'SOHNCST12A8151AF91',b'Gangsta Lean (Gangstapella)',5
+1075,b'SOUZLSE12AB0184B1D',b'Another Day Another Night',1
+1076,b'SOAHARW12AB017BAE8',b'Blues All Around My Bed',9
+1077,b'SOJCGJE12A6D4F79F3',b'Paper Thin',0
+1078,b'SOCMLII12A6D4FAB7F',b'Man Smart Woman Smarter',6
+1079,b'SOTZFQP12AB018038A',b'The Preacher',8
+1080,b'SORLPWM12AB017F78F',b'Principe Nino',9
+1081,b'SODPMJS12A6D4FA2A0',b'Shen Lai',6
+1082,b'SOLZCFG12A8C13C146',b'Two of a Kind',1
+1083,b'SOJSIAL12AF72A275E',b'Cafe deClouet',5
+1084,b'SOCQVYX12A8C1389E1',"b""Carolan's Concerto""",3
+1085,b'SOKLBBT12A6701FB54',b'Bro. Bill  (LP Version)',9
+1086,b'SOGNGRU12AAA15EE73',b'Pokrusa',8
+1087,b'SOYRNJG12A58A81B5D',"b""Don't Mess With the IRS""",6
+1088,b'SOMNDNZ12A8C133640',b'Loud & Clear (featuring Defari_ King T & Butch Cassidy)',7
+1089,b'SOOMCCM12AB01896EA',"b""Two of a Kind_ Workin' on a Full House""",0
+1090,b'SOAJMYR12A6D4F52FE',b'Pedazo De Idiota',9
+1091,b'SOQKXGT12A6D4FB337',"b""L'Ardechoise Aux Cheveux Blanc""",3
+1092,b'SODCXXY12AB0187452',b'Freaxxx',7
+1093,b'SOSIJPA12A6D4F97F2',b'Writes Of Winter',6
+1094,b'SOKGATR12A6D4F9015',b'Wo Ai Ni_ Zai Jian!',3
+1095,b'SOGVVLP12A8C1363F1',b'Stop The World',6
+1096,b'SOMGNHX12A8C131BB0',b'You Are Everything',8
+1097,b'SOYLJYK12A8C13D18D',b'A Piece Of My Heart',7
+1098,b'SOAKHMK12AB0184E39',b'Mi Gitana (feat. The Dey)',4
+1099,b'SOLSJLW12A67020AB0',b'Love Island (LP Version)',3
+1100,b'SOSBCKC12A8C139223',b'Hold On (Album Version)',7
+1101,b'SOACLMC12A8C13FA4C',"b""Baby Please Don't""",2
+1102,b'SOPTYJX12A6701CDC6',"b""Things I Don't Understand""",6
+1103,b'SOYDTJN12AF72A86B9',b'Pictures To Prove It',6
+1104,b'SOLDYJH12AC3DF56D5',b'Nostalgia for Infinity',0
+1105,b'SOQBJNU12A6701DFF5',"b""I Can't Rest""",6
+1106,b'SOAXNTS12A8C142187',b'Ballroom Floor',7
+1107,b'SOMOUFN12AC4688186',b'Mom',9
+1108,b'SOPSOHL12AB0185A0C',b'Goodnight Irene',9
+1109,b'SOEPYCP12AF72A77E0',b'Touch Your Button Carnival Jam',6
+1110,b'SOJCSXO12A8C13A80B',b'Music In Dreamland',4
+1111,b'SORTPAX12AB018448A',b'Ole Con Ole',0
+1112,b'SOATIOL12A8C13604E',b'Origins And Endings',6
+1113,b'SOEWUWF12A8C13D27A',b'Make It Last',9
+1114,b'SOHNGYV12A58A7A9EE',b'CrossBreed',1
+1115,b'SOCIJOM12A58A7CBF8',"b""I'm Blue (LP Version)""",8
+1116,b'SOXOKQF12AB018C079',b'Neon Psychedelia',6
+1117,b'SOZDWVM12A8AE448E8',b'Q Loop',4
+1118,b'SONNAVD12AB018838B',b'Sinc\xc3\xa9rit\xc3\xa9 (feat. Ludo)',8
+1119,b'SOSSQKN12A6310F224',b'Your Revolution Is A Joke',0
+1120,b'SODYKTT12A58A7BB18',b'We Three Kings',3
+1121,b'SOZPOZE12AB0184DF0',b'Plaisance-Fox',9
+1122,b'SOQYHDK12AB0186B01',b'Sleepy Man Blues',2
+1123,b'SOCAEQY12AB0189EED',b'I Go to the Rock',9
+1124,b'SOUDFLE12A58A7A140',"b""It's Personal""",5
+1125,b'SOIVRCS12A6D4FDA2C',b'The End. [Live In Mexico]',6
+1126,b'SOCSQIW12AB018CD18',b'El Gatito',6
+1127,b'SOAOQQE12AB018C71A',b'Oh ! Tannenbaum',3
+1128,b'SOJPMDU12A8C133C68',b'Superman',1
+1129,b'SONAFPO12AB018F219',b'The Original Colossal Drag Rag',4
+1130,b'SOLADTL12AB01815A7',b'As Nice As I Can Be',6
+1131,b'SOMAGRE12A6D4F8C60',b'The People You Care For',3
+1132,b'SOGLOTH12AB0185AC8',b'Abu-Pia',7
+1133,b'SOACFRH12A8C13E183',b'We Made It [Instrumental]',7
+1134,b'SOUJKWM12AC468ACF6',b'Lost In Translation',7
+1135,b'SOOXEJR12A8C136C08',b'I Wanna Sing (Autobiography Album Version)',8
+1136,b'SOFWCRI12A6D4F7C26',b'Cunoasterea Tacuta',9
+1137,b'SOFHVTV12AB01882C3',b'Manzenera',4
+1138,b'SOGYYVP12A8C14495E',b'Restless Spirits (World)',5
+1139,b'SOGNIKB12AB0187D8B',b'Ett Norrskensd\xc3\xa5d',1
+1140,b'SOESVCK12AB0181CCE',b'Les Tous Petits Details',4
+1141,b'SOODBPM12A6D4FAEA1',b'Downtown (Album Version)',9
+1142,b'SOXIGHC12AB0188CE2',b'La Blonde de P\xc3\xa9kin',8
+1143,b'SOMWMMJ12A58A7F577',b'Dinosaur Bones',1
+1144,b'SORZYYB12A6D4FA42E',b'Hard Not 2 Kill (Explicit)',1
+1145,b'SOWSLSY12AB018A502',b'Nobody But Me - Original',4
+1146,b'SOROXBU12A8C13F3D6',b'Bliv Du Till Gran (If You Became A Spruce)',6
+1147,b'SOIPLDI12A8C13A17C',b'Damn those eyes',8
+1148,b'SOXPUDC12AAF3B507C',b'Enchanted Garden',8
+1149,b'SOECRUG12A8C134478',b'Lawyer Clark Blues',2
+1150,b'SOZDJWF12A6D4F9682',b'Final Straw (Album Version)',3
+1151,b'SOCTHDP12A8AE47A14',b'Skin Ticket (Live version) (Album Version)',1
+1152,b'SOMFZIF12AB0182B90',"b""You've Got A Friend""",0
+1153,b'SOISQVL12AB0181716',b'Jesus Is Gonna Make Up My Dying Bed',5
+1154,b'SOMTXSB12AF72ACC38',b'Oops!...I Did It Again',7
+1155,b'SOWFUUS12AB01800E7',b'If Today Was Your Last Day (Album Version)',8
+1156,b'SOLIBLI12AB0180FBB',b'Half As Much',5
+1157,b'SOZNYQY12AB017DB76',b'Outubro',3
+1158,b'SOITAJG12A8C132B26',b'Little Things',4
+1159,b'SONTBYE12AB0182855',b'Love In Time',5
+1160,b'SOBYXQS12A8C13FAF6',b'Harmonia',4
+1161,b'SOXGBGK12A6701FC53',b'Murphy Lee',7
+1162,b'SOIVXLP12A8C139F26',"b""Let's Wrap Up""",4
+1163,b'SOXIFNK12AB0186B11',"b""Don't Be Deceived""",4
+1164,b'SOSUEIX12AB0185021',b'The End Is Near (LP Version)',4
+1165,b'SOLYHYM12AB017D549',b'Oversleeping',1
+1166,b'SOBCLQQ12A67020342',b'Pass Me Not (LP Version)',2
+1167,b'SOLDPNN12A6D4F7B46',b'Josephine',9
+1168,b'SOTBODD12A8C13D628',b'Alfil_ Ella No Cambia Nada',1
+1169,b'SOQTQWP12AB0185390',b'Eeshwar',3
+1170,b'SOWJYOK12AC3DFB39F',b'Addison Faceplant',4
+1171,b'SOMDOPM12AB0181990',b'From Now Until Then',6
+1172,b'SOYULQG12AF729C1AB',b'The Door',9
+1173,b'SOHKRGU12A8C13F45E',b'Un Gran Vacio',8
+1174,b'SOQEATT12A6D4F56DD',b'Murder In The Graveyard',1
+1175,b'SOCFLRO12A6D4FA981',b'Yo Yo Man (Garter Belt)',6
+1176,b'SOZQTSL12A6D4FB5F6',b'Remember (The Beauty Of Simplicity Album Version)',0
+1177,b'SOAJLWB12CF5828932',b'On The Wing',8
+1178,b'SONKAVH12AB017D040',b'Pills (Dub) (Dub)',7
+1179,b'SOVWDYF12A8C1351FE',b'Hot Wire [Live Version]',1
+1180,b'SOBXFRU12AB018597B',b'Big Girl Blues',0
+1181,b'SONALZR12AC4688B15',b'North American Ballads: No. 2 - Which Side Are You On?',5
+1182,b'SOOPMHL12AB0186150',b'Flute',3
+1183,b'SOORRKR12A8C13FF18',"b""Trio in G minor for piano_ violin_ and 'cello Op. 17: Andante""",5
+1184,b'SOBGCFL12AB0185ECE',b'Turn It Around',7
+1185,b'SOFEISR12A8C1421FB',b'I Get My Paper',7
+1186,b'SOQXESP12AB018223C',b'The New Girl',5
+1187,b'SOVURUP12AB01842C4',b'Please Jesus_ Send Me Someone To Fuck',7
+1188,b'SOSTMYP12AB017F0BB',b'All I Really Want',0
+1189,b'SOFACAE12AB01865E9',b'Tracy',9
+1190,b'SOTRDVJ12A8C13975E',"b""Savin' Me""",8
+1191,b'SOUNWEU12CF5F88ADE',"b""Ain't Gone 'N' Give Up On Love""",8
+1192,b'SOXAVMX12A6D4F7773',b'Too Many Choices',7
+1193,b'SOKHNJM12AF72A0187',b'Still',7
+1194,b'SOSHXUH12AB018BB22',b'It Took A Good Woman [Edited Demo]',2
+1195,b'SOEZXGQ12AAA8C65E3',b'House Of Pain',1
+1196,b'SOFBUDC12AB018A096',b'Locaccmaccam',9
+1197,b'SOOKXRZ12AB01821D4',b'Sense',5
+1198,b'SOOICPO12AB018321A',b'Vacation Rain (Album)',6
+1199,b'SOCOVXI12A6D4F856F',b'All Time Low (Album Version)',1
+1200,b'SOTFJGB12A8C13A1F7',b'Stick Out',1
+1201,b'SOQGKIP12AB0186A5D',"b""You'll Never Find""",1
+1202,b'SOQBGZG12AB0187E33',b'Byal ravnec',8
+1203,b'SOXXSJF12A8C133F33',b'Harmony Of The Forest',0
+1204,b'SOGTNSA12A8C13CCC0',b'2 Late 4 Goodbyes',6
+1205,b'SOLXDWR12A58A79689',b'Hundre \xc3\x85r Gammal',6
+1206,b'SOOAKLZ12A58A7A100',"b""Slut [Live at Lafayette's Music Room_ Memphis_ TN_ January 1973]""",6
+1207,b'SOSWEVW12AB018D551',"b""I'm On Your Tail""",4
+1208,b'SONNRSI12A8C1388E5',b'Ask The Angels',6
+1209,b'SOOVSJA12A58A76FF9',b'Jiggle Once And Wait (Album Version)',4
+1210,b'SOENRNI12AB0181427',b'The Child Deirdre',3
+1211,b'SOXHYEH12AB0187FF4',b'Cad\xc3\xaa O Meu Amor',7
+1212,b'SOEJVCS12A8AE483B7',b'Desire',2
+1213,b'SOAPMKZ12A58A764B7',b'Turkey And Dressin',1
+1214,b'SOLURBR12AC9075364',b'Clear Channels',4
+1215,b'SOWBZMU12A8C13754C',"b""Hang 'm High""",0
+1216,b'SOKKODJ12A58A7B73D',b'Cintura Fina',7
+1217,b'SOBJICW12A8C130EE8',b'New Meaning',9
+1218,b'SOBRRKW12A8C13AE98',b'Tis Monaxias Ta Monopatia',3
+1219,b'SOXRBZT12AB0180256',b'Ocean Size [Demo]',6
+1220,b'SOXVWRD12AB018145B',b'Misty Bog',0
+1221,b'SOUEBEX12A8AE47BBC',b'Little Bird',1
+1222,b'SOALJHY12A8AE489F3',b'Love_ Peace and Harmony',9
+1223,b'SOTDYKK12AB0184B0B',b'Roll Old Jeremiah',3
+1224,b'SOSPCEK12A8C13E372',b'Suti-suti',4
+1225,b'SOEIJSK12AB0183835',b'Con un poquitito de suerte',6
+1226,b'SOBCFLR12A58A7985F',b'Karola',4
+1227,b'SOXFPIX12AB018381E',b'Gum',6
+1228,b'SODPUEZ12A8AE4648B',b'Hop_ Skip & Jump',6
+1229,b'SOHGHWJ12A6D4F801C',b'Bring It On',1
+1230,b'SOZFAKK12A6D4F6927',b'Anatomy of a Contest',2
+1231,b'SOPGCGI12A8C139547',b'Yueh Kuang',3
+1232,b'SOQBFIA12A8C13BAA2',b'Woman',0
+1233,b'SOFDEMJ12A8C13410C',b'Shirley',4
+1234,b'SOVTZTF12A8C130A1A',b'Secret Lovers (Featuring Mica Paris)',7
+1235,b'SOWFVBM12AB0181C3B',b'Problems',1
+1236,b'SOWCBBV12AB0182F0D',b'Proletariat',1
+1237,b'SOPIHNL12A8C13B28D',b'Pipopapo Telpathy',6
+1238,b'SODOKPG12A8C13B97F',"b""I'm A Chicken Head (Skit)""",4
+1239,b'SOSOPKK12A8C133DC9',b'Rules of Attraction (Chris Cox)',6
+1240,b'SOCUCXZ12A8C130EAE',b'Knucklebuster',0
+1241,b'SOBHHUS12A58A78589',b'Once',2
+1242,b'SODZWZP12A8C13AEB6',b'Go On',4
+1243,b'SOUWLPU12A6D4F9814',b'Crackbabies',6
+1244,b'SOJAQGB12A58A7AA08',"b""How Y' All Doin'""",4
+1245,b'SOYQDSU12AC4685BE6',b'Fear of Girls (Live in Croatia_ 1993)',9
+1246,b'SOUEYVF12A58A7B70F',b'Hold Up My Heart',3
+1247,b'SOWJCOU12A8C1374EA',b'See The Light',1
+1248,b'SOBEBCP12AB0182AEE',b'Ciudad desierta',3
+1249,b'SOLBXEE12A8AE45EC4',b'Mesmerized',6
+1250,b'SOXTKVD12AB01887E0',b'Eoarchaean',1
+1251,b'SOZBNUO12A8C133D8A',b'I Do (Chris The Greek Remix)',7
+1252,b'SOSJYYD12A8AE480DC',b'Somebody Has Stolen My Girl',4
+1253,b'SONFVVI12A8C133210',b'Directions to my special place',4
+1254,b'SOMTLNK12A58A7A62B',b'A Sailboat In The Moonlight',5
+1255,b'SOYZYHE12A8C13E21F',b'Ho Capito Che Ti Amo',8
+1256,b'SOMEAHO12A8C135B5B',b'Situations',4
+1257,b'SOMNOPZ12A81C23100',b'Over the Rainbow',4
+1258,b'SOEDOSC12AC960A037',b'The Moon Was Yellow',8
+1259,b'SORGBTR12A8C1396FA',b'Boda de Oro',3
+1260,b'SOCBWVV12A8C13605F',b'Call Me',7
+1261,b'SOQKQJU12A58A7D262',b'Down (LP Version)',1
+1262,b'SOQNZJI12AB018E3B8',"b'Suite No. 4 in G major_ Op. 61_ ""Mozartiana"": IV. Variation 5 \x14'",2
+1263,b'SOXJHXF12A8AE48AC9',b'Pray (Album Version)',6
+1264,b'SOVSNJX12AB0189848',b'Back Then',6
+1265,b'SOPAGGN12AC468D06E',b'Hardcore From The Underland',1
+1266,b'SOKDKKP12A8C136A48',b'Menu Lagan Lagi',4
+1267,b'SOPXJAC12AB01887F1',b'Flying Fiddles (1996 Digital Remaster)',9
+1268,b'SODKPFP12A67AE036D',b'Remote Control',8
+1269,b'SOMHCGO12AB01810C6',b'Lo Decidio',9
+1270,b'SORYAVK12A8C13A10E',b'Judgement Begins With The House Of God',2
+1271,b'SOCUEQK12AB018963A',b'Bonjour',2
+1272,b'SOACZGZ12AB01849DB',b'Guns And The Young',1
+1273,b'SOCXKFS12AB018E309',b'Me quedo sin ti',6
+1274,b'SOSZUSE12AB018CEAA',b'Here We Are',0
+1275,b'SOCUVGH12A6D4FA234',b'Jesus Loves Me (Now More Than Ever)',3
+1276,b'SOHUMHC12A81C2318E',b'For All We Know',5
+1277,b'SOZOVFN12A8C13DEDD',b'Leski\xc3\xa4idin tytt\xc3\xa4ret',8
+1278,b'SONVZQU12AC95F03F5',b'Marbles',9
+1279,b'SOATRRA12AC468DDE7',b'Game Night (Album Version)',4
+1280,b'SOQURNS12AB018E7E4',b'Rock Steady',6
+1281,b'SOEYHXW12A8C13C677',"b""Knowing You'll Be There""",3
+1282,b'SOGUGOR12A8C1316DF',b'So(u)l Invictus',1
+1283,b'SOKPBZM12AB0182F28',b'Turn Your Eyes Upon Jesus',2
+1284,b'SOTOGJK12AB0182831',b'Har vi r\xc3\xa5d att i dagens l\xc3\xa4ge ha kvar v\xc3\xa5ra v\xc3\xa4nner i socialgrupp 3?',4
+1285,b'SOSVNTG12A6D4FA27F',"b""Fat Albert's Car""",9
+1286,b'SOOWRBQ12AB0189096',b'Cielito lindo',3
+1287,b'SOVQMDQ12A8C13F034',b'Il fait d\xc3\xa9j\xc3\xa0 (Live)',5
+1288,b'SOGVEVK12AB018502B',b'Zearocks (LP Version)',7
+1289,b'SOAIEFA12AC9097225',b'The Four Big Ones (Essential Authors And Works)',8
+1290,b'SOETCLM12A6D4F9B3B',b'You Were The One (Wide Wide World Album Version)',6
+1291,b'SOHUCCG12A8C137A17',b'Le syst\xc3\xa8me solaire',9
+1292,b'SOOHLUK12A6D4FBB1D',b'MY HERIONE (Acoustic Version)',3
+1293,b'SOVOFIU12AF72AD12F',b'Put On Your Rubbers',1
+1294,b'SOXHSRQ12A8C13C56F',b'Scrap',2
+1295,b'SOCWMZG12AAF3B2AE1',"b""I Won't Lie""",8
+1296,b'SOJDKSW12A8C13CDDA',b'Quiero Ser Tu Sue\xc3\xb1o',6
+1297,b'SOBXDCF12A6701FAFC',b'Becoming (LP Version)',3
+1298,b'SODGOWI12A6D4FAF1F',b'Milkcow Blues (Album Version)',5
+1299,b'SOXBLDL12A8C13ADD4',b'La polka des grenouilles',9
+1300,b'SOAIJOW12A8C13C1E4',b'Sample Track 14',8
+1301,b'SOFTXGJ12AB018327C',b'Feelin` Alone',7
+1302,b'SOFJQTP12AAFF4441E',"b""Don't Be Afraid (World)""",3
+1303,b'SOPRWGJ12AB018216D',b'Talking To Trees',3
+1304,b'SOSZYWZ12AB01873FE',b'Minner',3
+1305,b'SONKLLM12AB0188175',b'Morning Bird',3
+1306,b'SOODBPN12AB018C796',b'30 Grad',4
+1307,b'SOZNZIN12A6701E95F',"b""Janie's Got A Gun""",8
+1308,b'SODSPJL12A8C130DAE',b'Just Like Darts',9
+1309,b'SOYFZVP12A6D4F7EE4',b'Espoirs Perdus (Valse)',9
+1310,b'SOISPBI12AB0187873',b'Release',8
+1311,b'SOQBXKB12AB018A727',b'Fair Enough (LP Version)',0
+1312,b'SOCWHIM12A6D4FAAA7',b'I hit You Wit The Pepper',7
+1313,b'SOBWXDJ12A58A7725D',b'Where You Belong',3
+1314,b'SOUTQDI12A67AE11FD',b'Lost Love',3
+1315,b'SOVDKIJ12AB017F4BA',b'When Your Ready',7
+1316,b'SOMEPEB12A8C13E232',b'Les Deux Guitares',2
+1317,b'SOAYRZU12A8C133EBD',b'American Lovebite',6
+1318,b'SOXJGDR12AAF3B2586',b'Imaginary Love',5
+1319,b'SONXHGK12A8C141541',b'The Song of the Riddles',2
+1320,b'SOGTINJ12AC468DCF7',b'Kun rakastaa',7
+1321,b'SOFLEIR12A8C1392AF',"b""An M'agapas""",0
+1322,b'SOQLEJT12A6D4F8BFE',b'Que Si_ Que No',1
+1323,b'SOBFBEK12AB017FC1B',"b""I Don't Wanna be A Star""",7
+1324,b'SOMQPCE12AF729A73F',"b""I Don't Like It Like This""",3
+1325,b'SOMKTRO12AB017DE4D',"b""Side Steppin'""",7
+1326,b'SOEXRTB12A8C139A38',b'Facedown',0
+1327,b'SOKYZSI12AB0183789',b'She Will Be Loved',7
+1328,b'SOAXVMJ12A8C1352E7',b'I Believe In You (More Than A Story Album Version)',8
+1329,b'SOXBSTQ12AB018A916',b'Valkyria',1
+1330,b'SOMMJVR12A6D4F98E0',b'Hard To Concentrate (Album Version)',3
+1331,b'SOQLHDY12A6D4FA28B',"b""Nothing's The Same (2002 Digital Remaster)""",3
+1332,b'SONLJGK12AB01822EA',"b""I'm A Tomorrow""",1
+1333,b'SOZGENP12A6D4F78B7',b'Senegal Son',7
+1334,b'SOBMEDP12AB017FBE5',b'Guantanamera',7
+1335,b'SOUCZVQ12A8C131FF0',"b""Spelling Beatnuts with Lil' Donny""",1
+1336,b'SOLAPIZ12A58A7E3DB',b'Ballad Of The Boll Weevil (Remastered Version) (Take 10)',2
+1337,b'SOZANDJ12A8C138EAD',b'Polyester',8
+1338,b'SOEEOMN12A6D4FA1F8',b'Breaking In',2
+1339,b'SOVICTQ12A8C137F0D',b'Tha Day',6
+1340,b'SOBULMA12A6D4F8EA0',"b""What'Cha Gonna Do About It""",6
+1341,b'SOIPOJA12A8C13EDB7',b'We Bite',1
+1342,b'SONMFRY12AB018A9EC',b'These Days',3
+1343,b'SOHVOBI12A5891E993',b'Doomed To Walk The Earth',3
+1344,b'SOJNARC12A8C131B70',"b""Polly's Dress""",5
+1345,b'SOSNMLH12A58A7C091',b'The Dark Road',3
+1346,b'SODFKNA12CF5828911',b'Objection (Tango)',1
+1347,b'SORJBYM12A8AE45A3C',b'Vida De Mi Vida',8
+1348,b'SOOHWCX12A8AE48B59',"b""Love Don't Love Me (Justin Timberlake) (Amended Version)""",7
+1349,b'SODMJWA12A8C13BA03',"b""Jam-Master Jammin'""",4
+1350,b'SOUGCKR12A8C14402B',b'I got A Woman',5
+1351,b'SOLXLSJ12A8BEE956A',b'We Blame Love',1
+1352,b'SOZCYOO12AB017D77B',b'The Carrying Arms',2
+1353,b'SOMAVYY12A58A7F8F2',b'Medley: Safe To The Rock / Hiding In Thee',5
+1354,b'SOVHKAC12AB018C763',b'Let It Be Me',8
+1355,b'SOYFVFU12A8C13B4BE',"b""Armageddon's Raid""",1
+1356,b'SOEHISP12AB0188417',b'Darling_ I Want To Destroy You',7
+1357,b'SODORIX12AB01888E1',b'Unworthy of His Love',5
+1358,b'SOMYXOW12AB0186102',b'De rien',2
+1359,b'SODGZVL12AB01846EF',b'On Probation',7
+1360,b'SOBFXXF12AB0182007',b'East to West',4
+1361,b'SODIAHF12A6D4F809C',b'Misty Blue',5
+1362,b'SOLSJHM12A8C139B46',"b""Can't Make You Love Me""",7
+1363,b'SOWRCJX12A8C139161',b'Magali',0
+1364,b'SOTPQIM12A6D4F91BC',b'Main Street Eyes',3
+1365,b'SODQZAW12AB0184A51',b'You Never Wash Up After Yourself (Live)',5
+1366,b'SOJEDHO12A8C13DB77',b'Tu Mejor Amigo',6
+1367,b'SOSATLS12A6D4F71F0',"b""So Danco Samba (Jazz 'N' Samba) (1997 Digital Remaster)""",2
+1368,b'SOMANLY12A8C13AE56',b'The Story Goes On',0
+1369,b'SONELOT12A6701F519',b'Night Terrors (Album Version)',1
+1370,b'SOHWVDQ12A6701F7F9',b'Piracy',6
+1371,b'SOEIDNI12AC9075005',b'Ongoing Plague',1
+1372,b'SOGWEYN12A8C137359',b'Gracieusette',4
+1373,b'SOVKAWI12A58A79B9D',b'Peace Dance',5
+1374,b'SOJDKVC12A8C13927A',b'Between You And Me',7
+1375,b'SOYVFXD12A8C13A9A3',b'Angel',8
+1376,b'SOQQITZ12A8C133825',b'La Chola Caderona',8
+1377,b'SOUWIOA12A6D4FC245',b'Sad Girl (Single Mix)',6
+1378,b'SOIENMA12A6D4F9E0F',b'Comfortubly Numb',6
+1379,b'SOUCZLL12A58A819B7',b'The Christmas Song  (LP Version)',2
+1380,b'SOCPUHV12A81C1FDC8',b'Adios_ Amigos! (2003 Digital Remaster)',3
+1381,b'SOIMREK12A58A792CD',b'10000 Km',7
+1382,b'SOAGFDS12A6D4FBDB3',b'Phillippe',5
+1383,b'SOKDVOP12A8C13A3DD',b'Why Baby Why',9
+1384,b'SOVVRRU12A81C2435C',b'Ni Shi Wo Xin Zhong Yi Ju Jing Tan',8
+1385,b'SOPKBPO12AB0184BC4',b'Waltzing Matilda My Darling',8
+1386,b'SOXPWPH12A6701E86E',b'God Of Love (Album Version)',1
+1387,b'SOLUAUU12AB018C0E2',b'Apologize',9
+1388,b'SOJIPPT12A8C13F9FC',b'Laser Show (LP Version)',7
+1389,b'SOQELNC12A8C13FE06',b'Red (Main Version)',1
+1390,b'SOSZSGF12A67AE21B1',b'Crushing Belial',9
+1391,b'SOXMSDY12A8C142C7E',b'Silver Bells',0
+1392,b'SOTUGEK12AB018BE28',b'Better Days',8
+1393,b'SOWVBNI12AB017E39C',b'Cry_ Cry_ Cry',5
+1394,b'SOUOCXE12AB0180DE8',b'Here The Sun Never Shines',1
+1395,b'SOCYZTH12AF72A6CCF',b'Nude With Boots',6
+1396,b'SOCAMQU12AB0182111',"b""Don't Do That""",4
+1397,b'SOMJFYS12A8C13E24C',b'Why U Mad At Me (Explicit Screwed Version)',1
+1398,b'SOORXAG12AB01886FD',"b""We Didn't Kill Each Other (But Didn't We Try) [Originally Performed by Dallas Wayne]""",1
+1399,b'SOKELXZ12A8C13B501',b'The Legend of Yellow Boobie',7
+1400,b'SORIHQQ12AB0181B67',b'Enerv\xc3\xa9',6
+1401,b'SOAVRJE12A58A798CE',b'Meu Bem Meu Mal (Mi Bien Mi Mal)',5
+1402,b'SOSXQPZ12AB01800CB',"b""You're Not Alone""",8
+1403,b'SOKEKSF12AAF3B3977',b'Chuckanut Drive',1
+1404,b'SOJIGTT12A6D4FC3BA',b'Over And Out [Album Version]',0
+1405,b'SORSXYJ12AB01882C9',"b""(Coffee's For Closers)""",6
+1406,b'SOPMIWW12A58A7EE90',b'White Girl Who Can Dance',7
+1407,b'SOLLXZJ12A6D4F96B0',b'I Constantly Thank God For Esteban (Album Version)',7
+1408,b'SOCJCPS12AB017D8AE',b'Please Belive It',4
+1409,b'SOLIGLL12AB018C551',b'Blueberry Hill',3
+1410,b'SOHCSLO12A8C14171E',b'Queen Street Rag (144826)',9
+1411,b'SOAFQZW12A58A77CA5',b'Ju Ju',7
+1412,b'SOVPJZV12A6D4F9D73',b'Estudio',2
+1413,b'SOPBKDI12A8C137D8F',"b""Mass No. 19 in D minor_ 'Requiem' K626: Lacrimosa""",2
+1414,b'SOGMQBQ12AB017A9D1',b'Con Alma',8
+1415,b'SOBUPHJ12A58A7C7F8',b'I Walked Today Where Jesus Walked',3
+1416,b'SOHWCBC12A6D4F7596',b'Spanish Grease',9
+1417,b'SOKRMXG12A8C13AB54',b'Song Of The Valley',4
+1418,b'SOLMKME12B0B8081D3',b'Slave Song',4
+1419,b'SOKYTFZ12AB0189A73',b'Mark Practices',2
+1420,b'SOBNDJL12AB01806C3',b'Hot Girls',7
+1421,b'SONTBKA12A8C144020',b'U Not Like Me',7
+1422,b'SOEWQUV12A8AE46AA4',"b""Mighty Lak' a Rose""",5
+1423,b'SOFUXYZ12AB018C902',b'Junko partner',4
+1424,b'SOJGPHT12A6D4FA2BF',b'The Windmills Of Your Mind',2
+1425,b'SOIUVCM12AB0186D78',b'Crave and Wonder',6
+1426,b'SODIPHG12A58A7BEA6',"b""Can't Stop Cocoa Tea""",5
+1427,b'SOCIKSS12AB01841A8',b'Merry Christmas Baby',8
+1428,b'SOSKTOI12AB01843A5',b'The Song Is You',8
+1429,b'SOZCCPL12AB017C957',b'Al maestro',7
+1430,b'SOEYCMO12A8C13CDBB',b'Venti scudi',4
+1431,b'SOESALW12A6D4F7BBD',"b""All That's Left""",1
+1432,b'SOBCBQB12A8AE47374',b'Looking Back',9
+1433,b'SOODZRY12A6D4F81A0',"b""It's All Understood""",5
+1434,b'SOFHIRE12A6D4FB518',b'The Ball',8
+1435,b'SOFXTES12AB01831D1',b'The Sun is here for you',2
+1436,b'SOBYAAS12A8C1442B1',b'Golden Touch (LP Version)',2
+1437,b'SOHBIKM12AB01840AF',b'Cabaret',6
+1438,b'SOZWMDF12AB018317A',b'Idnnitkhtr',6
+1439,b'SOIKTUX12A6D4F3E39',b'Spent',1
+1440,b'SOOKORU12AB01808EA',b'I Heard It Throught The Grapevine',7
+1441,b'SOZCWXS12AB018514C',b'Eight (Album Version)',9
+1442,b'SOQAWIC12A8C13A120',b'Just One Time',9
+1443,b'SOSYIEX12A58A7D0F7',b'More Power To Ya',0
+1444,b'SOUOMRB12AB017EBE9',b'Within My Blood',1
+1445,b'SOPBAMQ12A8C13A815',b'Decima Del Tiempo De Antes',8
+1446,b'SOQCJNI12A8C142188',b'Same Game',8
+1447,b'SOWIDQC12AB0183BAE',b'El Jorobadito',7
+1448,b'SOCLYJV12A8C13F5DC',b'Where We Are From',2
+1449,b'SOSECUN12A8C13E654',b'Rider 4 Real',1
+1450,b'SOYSUZL12A6D4F9005',b'Ocean Drive',6
+1451,b'SOBUHQT12AB0186C07',b'Mr. Wonderful',3
+1452,b'SOWOLDP12A8C132015',b'Distractions',6
+1453,b'SORBCPH12A67ADD062',b'Headless Heroes (LP Version)',8
+1454,b'SORYPLB12A8C142025',b'Boar Hog Blues',2
+1455,b'SOCERIC12AB0184710',b'His Love Says (Album)',4
+1456,b'SOGBEWD12A8C1427C8',b'Traffic',6
+1457,b'SOYNTSK12AB0184C2F',"b""Danger! She's A Stranger""",8
+1458,b'SOBRZQM12A6D4F6896',b'Five Long Years',3
+1459,b'SOWNOIQ12A58A799E1',b'Sweetest Maleficia (Album Version)',1
+1460,b'SOCPPNW12A8C131AF4',b'As The Terror Dances Your Way',7
+1461,b'SOVRIPF12A8C142FD3',b'Conker The King',2
+1462,b'SOABRXK12A8C130A36',b'Saturday Love',6
+1463,b'SOCHZDP12AC468D99F',b'Butts n Stuff',4
+1464,b'SOLZYAI12AC46893E4',"b""Why Can't You Be Mine""",4
+1465,b'SOOTWRY12AB018277E',b'Believe',8
+1466,b'SODJAZO12A81C2074D',b'Sailing To The Edge Of The Earth',4
+1467,b'SOAMLPM12A8C13501C',b'Street Vibe',7
+1468,b'SOLRMRV12AB017B887',b'Jarabe De Pico',9
+1469,b'SOGCFKE12AB01843C0',b'How Can I',9
+1470,b'SOICDVR12AC3DFB6F6',"b""I'll Be Better""",8
+1471,b'SORADNR12AB01862D1',b'Easy To Lose Hope',6
+1472,b'SOBPHQK12AF72A6AFF',b'Like A Dog',6
+1473,b'SOPUPYW12A8C13DEC9',b'Can You Hear Me',7
+1474,b'SODISVN12A8C139DBF',b'True',0
+1475,b'SORCMAR12AB018701E',b'Akhm Nakon',7
+1476,b'SOTARLM12AB0189263',"b""Steppin' Out Tonight""",4
+1477,b'SOIVNTJ12AC468C685',"b""'57 Chevrolet""",6
+1478,b'SOICOXW12A8C144D5C',b'You Should Be Free',2
+1479,b'SOOWVZQ12AF72A0070',"b""Don't Cha Know""",8
+1480,b'SONJEYU12AC468C050',b'The Battle Of New Orleans',9
+1481,b'SOULIKU12A58A78CE2',b'February Song [Live]',8
+1482,b'SOPVNEU12A58A77E90',b'You Lasses and Lads',2
+1483,b'SOQWSGM12A6D4FC3C6',b'You Left Me',7
+1484,b'SOQCKBB12AB01864F9',b'Keep It Going Louder (Tom Stephan Harder Mix)',7
+1485,b'SOJMCCN12AB0185039',"b""Happy Valentine's""",9
+1486,b'SOEOMWI12A67ADB831',b'Million Teardrops',4
+1487,b'SOYBVOI12AB017AD6B',b'Lover In Demand',8
+1488,b'SOYBGAM12AB017A82A',b'Speed Of Sound (Emergency Broadcast Album Version)',1
+1489,b'SOFEQWY12A6D4F94CC',b'2HB (1999 Digital Remaster)',9
+1490,b'SOJAMMF12A58A7656D',b'Take Her Out',8
+1491,b'SOJQTVV12A8C134387',b'That you fool ed me',8
+1492,b'SODPYXE12A58A7AF97',b'Problems',8
+1493,b'SODXTQB12AB018A5C0',b'Crustaceans As Castanets',8
+1494,b'SOBBFPC12A8C142932',b'The Man From U.N.C.L.E.',6
+1495,b'SOXIIPZ12A8C13EDC0',"b""Is It The Skin I'm In?""",8
+1496,b'SOWGJTP12AB018637B',b'Requiem Blaster',1
+1497,b'SOGSOTK12A6D4FA596',b'Josephine (French Edit)',8
+1498,b'SOFNAUM12AB01863B4',"b""Ain't That Loving You Baby""",9
+1499,b'SOWTJRG12AC9075799',b'Pr\xc3\xa9liminaires_ par Philippe Pag\xc3\xa8s (feat. Philippe Pag\xc3\xa8s)',4
+1500,b'SOQRBPU12AB018560B',b'Bald Head',9
+1501,b'SOGVOOU12A8AE4643A',b'Sun Shower - Cadence Weapon Remix (Cd)',7
+1502,b'SOUUNYT12AB0184F40',"b""It's All In My Mind""",8
+1503,b'SOAPNML12A8C13B696',b'Cold Youth',6
+1504,b'SOEJJAZ12A8C132CAF',b'Heft*',6
+1505,b'SOITJXD12A8C133C31',b'What Are You Fighting For',3
+1506,b'SOESPAS12AB017DBAE',b'14 Botellas',1
+1507,b'SOJVAKH12AB0184F65',b'Some Guys Have All The Luck',6
+1508,b'SOWLGVU12AC3DFA925',b'Why Did You All Lie to Me?',5
+1509,b'SOFJJXH12A6D4F8104',b'Move On',6
+1510,b'SOIWAUK12AB01857D2',"b""L'Homme au trap\xc3\xa8ze volant""",9
+1511,b'SOBXZGV12A6702074F',b'Bi Thus A Mo Shuile (LP Version)',5
+1512,b'SOFKEIK12A6310D86A',b'Stop Breaking Down (1994 Digital Remaster)',6
+1513,b'SOUKJOM12AF72A5F91',b'Shadow After Dark',7
+1514,b'SOJPXOL12A58A793B9',b'Xtra Thump (Featuring Tash from Tha Alkaholiks)',7
+1515,b'SONMFZP12A8C14297C',b'Limbo Rock',7
+1516,b'SOECDUV12AAF3B38B4',b'You Gave Me A Mountain',0
+1517,b'SOFGDDZ12AB0186E67',b'Orgullo',9
+1518,b'SORGFFI12AB018970E',b'Fauch\xc3\xa9',8
+1519,b'SODAABR12A58A7A953',b'I Never Shall Forget That Day (Reunion Album Version)',6
+1520,b'SONFAMH12A6D4FA1FE',b'Cellular Phone',6
+1521,b'SOMGYNM12A6D4F9B9B',"b""Breakin'""",4
+1522,b'SOHERZY12A8C13C62F',b'Hornpipes: The First of May / the New Century',3
+1523,b'SOJTYYE12A6D4F956E',b'Fen Shou Zong Yao Zai Yu Tian',0
+1524,b'SODQFQC12A8C13FD7A',b'Good Enough',3
+1525,b'SOOGAGO12AB0187473',b'The Friendly Visit / The Stack of Wheat / The Gypsy Hornpipe',2
+1526,b'SOPRMCE12A6D4FBBE5',b'Samaritanas Del Amor',6
+1527,b'SOEIOPX12A8C1430AD',b'Sahnu bhul ke Maha',3
+1528,b'SOGWCZV12AC468C081',b'Adios Pampa Mia',2
+1529,b'SOIYNOF12AB0182141',b'Bailando',8
+1530,b'SOJHGDB12A8C137470',b'Midnight  (LP Version)',6
+1531,b'SOCLZZX12AB01849D3',b'Sunshower',8
+1532,b'SOAHUNU12A6D4FEDCB',b'Restcure',6
+1533,b'SORZMJJ12A58A7E2D0',b'Dixi\xc3\xa8me Commandement',7
+1534,b'SOQVGIU12AB0180C10',b'Centop\xc3\xa9ia',2
+1535,b'SOZQPHD12AB0183D23',b'1969',6
+1536,b'SOQZGAT12A8C134122',b'It\x19s Raining',3
+1537,b'SOCBGSL12A8C13747D',b'You Still Believe in Me',0
+1538,b'SOMTQJY12CF58265F5',b'24 Hours from Tulsa (Bonus Track)',1
+1539,b'SOXWHQK12A67020E88',"b""Don't Knock Love""",6
+1540,b'SOYJVQR12AB01835DE',b'Destiny Ft: Lesk One',6
+1541,b'SOKIWRW12AB017FAD7',b'Aljarafe',8
+1542,b'SONSBJS12A67ADE7EC',b'Yhteinen koti',7
+1543,b'SOXBPJO12A8C1401AC',"b""It's Not What You Say""",8
+1544,b'SOZOEUF12AB017E66A',b'Way Beyond',6
+1545,b'SOMAYCY12A6D4F936C',b'Oprah (Album Version)',9
+1546,b'SOQERJP12A8C14130F',b'Everyone (LP Version)',6
+1547,b'SORSEYK12AB01870D6',b'My Pillow',0
+1548,b'SOIHMRM12A6D4F89CC',b'Check 1_2',1
+1549,b'SOFAICL12AB018F914',b'Thug Love',7
+1550,b'SOUUOFU12AB018157C',b'Start Moving',6
+1551,b'SOXNNAL12AB0182E8A',b'Show a Sign of Life',1
+1552,b'SOLPVLB12AB01879CB',b'Mean Old World Blues',2
+1553,b'SOPOJSW12AC468C5D5',b'Ville Eyolf',6
+1554,b'SOZSPRJ12A8C13EC7C',b'En mis besos',3
+1555,b'SOQFLWF12AB017EF20',b'Anya',5
+1556,b'SOZONTS12A6D4F746E',b'Que Viva El Amor',0
+1557,b'SOZEPNS12A8AE4766D',b'Performance (Remastered)',1
+1558,b'SOFKWOZ12AB018B51C',b'Aho',6
+1559,b'SOHDZDZ12A6D4F7238',b'Crawlspace',4
+1560,b'SODCIIZ12A8C13C0C5',"b""Heart it Races (Yacht's I Should Coco Mix)""",7
+1561,b'SOQHOZN12AC468B4BC',"b""Rockin' At Midnight""",4
+1562,b'SODWUKB12AB0180C2A',b'Tocame',6
+1563,b'SONCVTJ12AB01797ED',b'Know Thyself',8
+1564,b'SOBLUAT12A8C140982',"b""Jolie Blon's Gone""",0
+1565,b'SOYIGVH12A8C144B02',b'Fairytale Land',9
+1566,b'SOPHYGD12CF5F890A6',"b""I've Got The World On A String""",5
+1567,b'SOCUNKO12A8C132AF5',b'Problems',7
+1568,b'SOLFRPO12AB018C705',b'Juno',6
+1569,b'SOUGRYN12A8AE4606C',b'Grandma (Screwed & Chopped Version)',7
+1570,b'SOJRZPS12AB01853C9',b'The Last Song',3
+1571,b'SOXCIAD12AB0181701',b'Macarena',1
+1572,b'SOQLAUY12A6D4F900A',b'Need To Belong To Someone',4
+1573,b'SODIOXW12A6D4FD0D3',b'Bystander (Album Version)',6
+1574,b'SOADCFY12A6310E353',b'Rock The House (Radio Edit)',7
+1575,b'SODAWYC12A8C13B094',b'Times Square',2
+1576,b'SOZWVZN12A6D4FB762',b'Light',3
+1577,b'SOZHGBF12A8AE49137',b'Les Femmes Des Autres',9
+1578,b'SOPWCJF12AB0183997',b'Old Man Rocking Chair',0
+1579,b'SOQPGCD12A8C13CF85',b'Ain`t got nothing ( feat. David Banner & Eddy Soulo )',9
+1580,b'SOIWLJY12A8C13CBF3',b'Bonnie Mae',3
+1581,b'SOTSEIR12A8C141BA6',"b""I Can't Stand It""",4
+1582,b'SOZZBDC12A8C146917',b'Fall River Legend: Conversation: Morton Gould/Agnes de Mille',5
+1583,b'SOQBPJS12AC3DF56FC',b'One Little Baby',3
+1584,b'SOJNKHE12AC3DFB0BA',b'Macht hoch die T\xc3\xbcr',2
+1585,b'SOZLPVU12A6D4FD279',b'Mark My Words (Album Version)',1
+1586,b'SOODVWJ12A8C1379B4',b'Grace And Mercy Part II',4
+1587,b'SOOPDSG12AB018B57E',b'C Day (Maxi Club Version)',7
+1588,b'SOKHMUX12A8C13A78A',b'Les Noirs Marchant (Rudy Van Gelder 24Bit Mastering) (2002 Digital Remaster)',3
+1589,b'SONFECQ12AB017EFF7',b'Itchycoo Park',6
+1590,b'SOZTUNW12AB01887F8',b'Life',1
+1591,b'SOKETYB12AB018308E',b'It Is No Secret (What God Can Do)',0
+1592,b'SOETRAW12AB0180F0E',b'The Way Love Is',7
+1593,b'SOYCRXU12AB0180B86',b'Never My Love',3
+1594,b'SOEGJRT12A6D4FCD65',b'Henrys Death',7
+1595,b'SOHNSVU12AB01891F8',b'Act One: Rise and Fall - From the Ashes (I. Chapter One / II. Chapter Two)',9
+1596,b'SOKWHFT12A8C13780E',b'Mallorca_ Op.202 - transcr. Marc Switzer',5
+1597,b'SOEOSKZ12AC392B55B',b'Back On My New S*** (feat. Tre Williams)',7
+1598,b'SOSTWHL12A6D4FD2A9',b'As Mist Lay Silent Beneath',1
+1599,b'SOJATJX12A6D4F6E77',b'Shy Boy (1999 Digital Remaster)',9
+1600,b'SOZCHRE12A8C1404A4',b'Give It All You Got',1
+1601,b'SOQOEGK12AB01883BB',b'Bata 6/8',5
+1602,b'SOBAENB12AB017BFD8',b'Eres Tu',9
+1603,b'SOEJCIN12A8C132263',b'Your Love',4
+1604,b'SOSPTBA12A81C23A03',b'El Perro',8
+1605,b'SOWYBEG12A6D4F9142',b'Kumal & Sangha',5
+1606,b'SOVJJGU12AB0186C4F',b'Ducktails - Moon',7
+1607,b'SOSIZPX12A8AE46AD3',b'Nana',5
+1608,b'SOJWWTP12A6D4F8952',b'I Will Be Free (LP Version)',3
+1609,b'SOEDEOK12AB0187B66',b'National Fencibles March',1
+1610,b'SOZSGFG12AB017D099',b'Min Tou Milate Tou Pediou',3
+1611,b'SOPWVGR12A8AE46957',b'Soy De Oaxaca',6
+1612,b'SOOSTAD12A8C133F0B',b'M\xc3\xa4dchen mit Plan',3
+1613,b'SOHIHSR12AB0184E8F',"b""Everyone's At It""",1
+1614,b'SOSRFJO12A8C13DD88',b'I Want To Live (Smash Club Mix)',6
+1615,b'SOOJXEP12AB018AD86',"b""Goin' To Hell On A Sled""",6
+1616,b'SOWFOWK12A6D4F669C',b'The Fourth Wish',2
+1617,b'SOVBBBP12A58A7B044',b'Obsession',8
+1618,b'SOPMAEU12A67AE0C81',b'The World Turned Upside Down',6
+1619,b'SOPOGEB12A6D4FB25A',b'Slow Ride [Live Version]',1
+1620,b'SOHTAHZ12A8C130B46',b'Kenourgios Erotas',9
+1621,b'SOAMLRD12AAF3B35AC',b'Too Late',7
+1622,b'SOCVNKY12A6D4FBC5E',b'Machinenfunk',7
+1623,b'SONEIYL12AB0180FE4',"b""I'm Going All The Way (Album)""",7
+1624,b'SOSEVUC12A8C145671',b'Thats What I Like About a Country Song',3
+1625,b'SOZXBAJ12AB017F858',b'Big Boss Man',9
+1626,b'SOXQVRI12A6D4F8E28',b'The Christmas Song',1
+1627,b'SOUVHAM12A6D4FA42A',b'Korea (LP Version)',7
+1628,b'SOTBYJX12AB0188922',"b""(I Used To Couldn't Dance) Tight Pants""",1
+1629,b'SOBPRCW12AB0186D3E',b'Assassin',1
+1630,b'SODXWSC12A8C13828F',b'Only Love',0
+1631,b'SOWPBNN12AB01848B1',b'Well Oh Well',4
+1632,b'SOJSFWQ12AB0180A1A',b'Times Up',4
+1633,b'SOLDTNU12A58A7A231',"b""What's Gonna Happen On the 8th Day""",8
+1634,b'SOHGJKE12AB0181C65',b'Get Your Head Stuck On Your Neck',7
+1635,b'SORQSRN12AB018102E',b'Playstation Generation',1
+1636,b'SOBAMAA12AB0187CB1',b'Sample Track 17',4
+1637,b'SOGPLSC12AC468D55B',b'Aur\xc3\xa8le et C\xc3\xa9line',3
+1638,b'SOPWPTN12A58A7CBAF',b'Lake Charles Two-Step',3
+1639,b'SONRABC12AB0181584',"b""Romeo's Exile""",3
+1640,b'SOPGUJO12AB0186DF1',b'He Never Changes',8
+1641,b'SOFBCXN12A8C13C8C8',b'Pick Me Up On Your Way Down',6
+1642,b'SOKGYMR12A8C1433E3',"b""Don't You Think It's Time To Go""",8
+1643,b'SOJKYRI12A58A7D06C',b'Frieda',8
+1644,b'SOELWIL12A8C14373B',"b""L'antillais Donne""",1
+1645,b'SOZMRSH12A8C141244',"b""Hymne A L'Amour""",3
+1646,b'SOJIQVT12AB0189EB1',b'La Fluta Magica',9
+1647,b'SODJTQG12A8C135B04',b'Etre Le Premier',6
+1648,b'SOECOIA12A8C132F39',b'Dayz Of Our Livez',1
+1649,b'SOXPTZV12A58A7DF86',b'Road-Age at the Farmers Market',1
+1650,b'SOEDZFJ12A8C1370AE',b'Inner Chamber',2
+1651,b'SOVZDMI12AB0188DA6',"b""It Ain't The Meat It's The Motion""",9
+1652,b'SONRSKV12AB018B6A1',b'Woman Shy',8
+1653,b'SOVOHEI12AB017C590',"b'Take The ""A"" Train'",2
+1654,b'SOWLHNY12AB0180F0C',b'Protect You',2
+1655,b'SOALPEZ12A8C132E29',b'Frankie And Johnny',5
+1656,b'SOGYRUP12AB017FB4C',b'Have Thine Own Way',3
+1657,b'SOOYKEK12A8C13B1DD',b'Rebel Music',1
+1658,b'SOMXGSM12A8C130A2C',b'Unbreak My Heart',8
+1659,b'SOCHBZX12A8C141F2B',b'Wailing Sounds',1
+1660,b'SOTUDGH12A8C13FED6',b'Evergreen',6
+1661,b'SOQBWFW12A8C139512',b'Italian Concerto in F_ BWV 971 - Allegro',3
+1662,b'SOHXEZL12AB0185E35',b'God Bird Change',6
+1663,b'SOVXFJX12A81C2387B',b'Tuscan Chica',4
+1664,b'SOKJUOW12AB0181545',b'Transamazonia (Deep Dish No Doze Mix)',7
+1665,b'SOZCFCW12A8C145A3A',b'The Preacher & the Funeral',9
+1666,b'SOIFHTU12AC46867F6',b'Stand (Album Version)',6
+1667,b'SOQZCRW12AC468B0C0',b'Memphis Jug',5
+1668,b'SOWTMAZ12A58A7DA40',b'We All Need Love',8
+1669,b'SONBZRB12A6D4FA945',b'What Woman Really Wear To Bed',4
+1670,b'SOLHEQX12A8C135403',b'Honey',4
+1671,b'SOMNOUE12A8C130DDE',b'Reminisce For A While (Sung With Raul Malo)',8
+1672,b'SOKIDCN12AB01828E0',b'Gail Wakes Up',0
+1673,b'SOSXJSF12A8C13DD2D',b'Beautiful',1
+1674,b'SOZQDOQ12A8C14538E',b'Aftertaste',0
+1675,b'SOEGCGK12A6D4FB978',b'I Could Use Another You (Digital Re-Recording)',6
+1676,b'SOWNIIQ12AC468CB58',"b""N'ayez crainte mesdames""",2
+1677,b'SOAXXOK12AC9072660',b'Tredve\xc3\xa5rsfurua P\xc3\xa5 Ask\xc3\xb8y',8
+1678,b'SOCXWEG12A6D4FBEA3',b'I Am Fred Astaire (Album Version)',1
+1679,b'SOYRPRE12AB018B083',b'Blues Again',3
+1680,b'SOUDJIG12A6D4FD426',b'Love Goes Down (Part Deux)',8
+1681,b'SOESTLI12A6D4F6E53',b'Nothing To You',9
+1682,b'SOAKNYW12A6D4F5FE4',b'What a Friend We Have in Jesus',2
+1683,b'SOKXOYB12AB0182EEC',b'Peigin is Peadar',5
+1684,b'SOEYFZV12A8C13C4A7',"b""Sally Can't Dance""",6
+1685,b'SODZKJX12A81C22F9D',b'World Wind',4
+1686,b'SOEWZBO12AB0187F4D',b'Lero Do Bolero',6
+1687,b'SODZXCH12A8C140833',b'born again',0
+1688,b'SOJSYLO12AC3DF9B1B',"b""Pa'lla pa'ca""",3
+1689,b'SONXOVG12A6D4FC104',b'Gold Flames Of Angels',6
+1690,b'SOEEWKM12A8C13B9FF',b'Kill Miss America (Album Version)',1
+1691,b'SOJTVHW12A8C142F98',b'Like A Star',4
+1692,b'SOZZIEB12A8C1427FD',b'2 Glocks',4
+1693,b'SOUCHEP12AB01862BA',b'Zavelow House (Album Version)',1
+1694,b'SOSSOBZ12AF72A294F',b'Wanderlust',9
+1695,b'SONRPGH12A6310D895',b'Seven Days Too Long',1
+1696,b'SOXDFKG12A8C1342B8',b'Rock Me Baby',4
+1697,b'SOZQQIZ12AC4687EAC',b'Freak it all Night',7
+1698,b'SOGLOFX12A8C13E454',b'Hiekkaa (polvere)',8
+1699,b'SOGKNMB12AB0189683',b'La Rivi\xc3\xa8re De Ton Dos',2
+1700,b'SOLUWXE12A6BD550CD',b'Bill Lynch',4
+1701,b'SOWLDPW12AB017ECA0',"b""Coleman's No. 1 / Ton Double Fisel / Kiely Cotter's / How We Spent the Christmas""",4
+1702,b'SOUFIZZ12A6D4FB02B',b'Zig-Zag Walk',7
+1703,b'SOHJHIQ12A6310E147',b'She Blinded Me With Science',4
+1704,b'SOWPJTG12AB01878C0',"b""Let's Roll (Take 1)""",0
+1705,b'SOLMLRP12AB01890AF',b'Satellite Of Love (Album Version)',8
+1706,b'SOJPNCH12A67AE0E21',b'Watching You',0
+1707,b'SOKUXBH12AAFF40902',b'For Anything',3
+1708,b'SOQIVUY12A6D4F8F74',b'Chain (Album Version)',0
+1709,b'SOAEGKR12A58A79091',"b""What's He Doin' In My World""",8
+1710,b'SOFBVDN12AB018BE6D',b'Speaker Problems',2
+1711,b'SOHGILP12A8C132080',b'Eagle Eye',9
+1712,b'SOPDRUR12AB0182EC1',"b""C'est Toujours la M\xc3\xaame Histoire""",8
+1713,b'SOPVVJD12A58A7CA8D',b'Let Me Out',3
+1714,b'SOGACRX12A8AE48009',b'Alchemy Index Vol 1 \x13 Water 1 of 6',6
+1715,b'SORTJEP12A58A7B7EA',b'Paragon Rag  (LP Version)',2
+1716,b'SOJZBCP12A67ADA093',b'Velvet',6
+1717,b'SOFVBVJ12A8C1404EB',"b""Ricerca nell' isola""",5
+1718,b'SOPAWON12AAF3B2D3F',b'Flame On',1
+1719,b'SOKPQJW12A58A777CA',b'Great Is Thy Faithfulness',3
+1720,b'SOYJMPE12A6D4F4BB6',b'Cool People Make Me Tired',0
+1721,b'SOYDOBA12A8C1384F9',b'Joaquin Torres Jr.',9
+1722,b'SOIASWH12AB017F44C',b'Walking The Cow (Hi How Are You)',2
+1723,b'SOOHOXD12A6310E8C6',b'Queen Of The Hours (2001 Digital Remaster)',7
+1724,b'SOVHPUY12A67020A44',b'Skit #2 (Kanye West/Late Registration)',4
+1725,b'SODNYXU12A8C13F1B3',b'Prijateljica',6
+1726,b'SOMOWDB12AF72A8AE2',b'Drum Machine Joy',7
+1727,b'SOWBQRV12A58A7B9A4',b'Etre Une Femme',0
+1728,b'SOCGIWH12A8AE4704F',b'Death Or Glory',0
+1729,b'SOAYDLO12A8C13A198',b'Please No More',0
+1730,b'SOJCVRV12AF729F1B6',b'Phantoms In The Mirror',1
+1731,b'SOYWGDU12A8AE46879',b'The Wreckage Intro (Album Version)',5
+1732,b'SOGNLAE12A8C13ADD9',b'Encouraged',1
+1733,b'SOQHZTG12A58A79385',"b""I'm Just A Girl""",3
+1734,b'SOXHTSO12A58A7CC5D',b'Armando',7
+1735,b'SODNUSO12A8C13A9FE',b'Flat Earth Society (Album Version)',1
+1736,b'SOABFNB12AB0180FAA',b'Cool Water',5
+1737,b'SOGCCFL12AB0185B8C',b'Try And Stop Me',3
+1738,b'SOCKRAI12A81C20385',b'Las Muchachas',9
+1739,b'SOJTILF12A8C134ED7',b'The Beginning of the Partnership',2
+1740,b'SOBXWEZ12A8C141D7C',"b""This One's For You""",0
+1741,b'SOBUBQH12AB017DC39',b'Dans le calme de la nuit',7
+1742,b'SOQXGVE12CF5F86D20',b'Tin Pan Alley (aka Roughest Place In Town)',2
+1743,b'SOJBTHL12A6D4F7409',b'Umbrellas Of Cherbourg',3
+1744,b'SOUEHCD12AB0188F80',b'Here Without You',8
+1745,b'SOBHFZM12AB0183A71',b'Dig Up',8
+1746,b'SOTBDLI12AC468A8AF',b'Passion',9
+1747,b'SOOHPYN12A67020C87',b'I Am The Walrus',9
+1748,b'SOUXANT12A6D4FB048',b'Hunger Strike',3
+1749,b'SOPHSDJ12AB018A970',b'Hood Figga Juke',7
+1750,b'SOCQWMC12A8C1429D1',b'On The Other Hand (Album Version)',8
+1751,b'SOBOJIH12AB0183BB3',b'I Won\x19t Let You Back In',6
+1752,b'SOZGBWV12A8C137BE5',b'Best Friend',0
+1753,b'SOFZLZC12AB017BEDE',b'M 14',4
+1754,b'SOFZXEV12A8C13A407',b'Pub Pusher',7
+1755,b'SOJRTDB12CF582662D',b'In This Skin',1
+1756,b'SONIPXL12AC4688938',b'Sellotape Flowers',4
+1757,b'SOBVEIP12A8C13AB94',b'Kurrajong',0
+1758,b'SOCLJZX12AB0182CA4',b'Mari Mouri (Mary Has Died)',3
+1759,b'SODXQLP12AB01867F0',b'Eric',1
+1760,b'SORJHOX12A8AE48899',"b""I'm Walking""",1
+1761,b'SOKZILC12A6D4FBC9D',b'Go Baby (feat GemStones) (Explicit Album Version)',6
+1762,b'SOHXCVP12A81C1FC64',b'Broderskapets ring',1
+1763,b'SONVNHC12AB0186206',b'Si Lu',0
+1764,b'SOHRSTQ12AB01811FB',"b""\xc3\x87a c'est Paris""",0
+1765,b'SOEKNNK12A8C13E9FE',b'God Is The Answer (Footprints In The Sand Album Version)',3
+1766,b'SOVMVHS12AB018126C',b'Cuento De La Buena Pipa',4
+1767,b'SOHWLNQ12AB017D858',b'The Wickedness',7
+1768,b'SODFJJC12AC468C3F3',"b'Perk trip - sleeping in ""tubes'",4
+1769,b'SOBEVGM12A67ADBCA7',b'Baby Boy [feat. Beyonce]',7
+1770,b'SOVRDDO12A8C137FDA',b'Dasotmori Live',5
+1771,b'SOFBWHA12A8C13A6C8',b'Mopao',8
+1772,b'SOHWVRC12A6D4F6DA6',b'Angry Young Men (LP Version)',4
+1773,b'SORKBDW12AAF3B46A0',b'Peanuts (The Peanut Vendor)',4
+1774,b'SOUHNOH12AB01889AF',b'Completeness',8
+1775,b'SOOSBQP12A8C1353B6',b'Anytime You Need A Friend',1
+1776,b'SOOJUIE12A81C212C2',b'Rock And Roll (Could Never Hip Hop Like This) Part 2 featuring Lord Finesse_ Mike Shonoda_ Chester Bennington_ Rahzel_ Qbert_ Grand Wizard Theodore & Jazzy Jay (Instrumental)',4
+1777,b'SOPBDIT12A6D4FD5CC',b'Right here Waiting',7
+1778,b'SOUJKIR12AB0186E43',b'Soleariyas',2
+1779,b'SOLBKHE12A8AE47FBF',b'Gamilia Patinada',2
+1780,b'SOWDLGO12AB0182434',b'Lonesome Road',6
+1781,b'SOXPJYV12A8C146554',"b""I'm So Bored With The U.S.A.""",1
+1782,b'SOEUZKU12AB018A2B2',b'Slow Down',4
+1783,b'SOFIHWY12A6D4F98F9',b'Born To Run',6
+1784,b'SONUSTR12AB0186544',b'Finally (Album Version)',8
+1785,b'SOMQIKW12AB018595D',"b""Il a suffit d'une chanson d'amour""",8
+1786,b'SOKHLKW12AAF3B572C',b'Shades Of Love',3
+1787,b'SOPAPHW12A8C13C373',"b""36 Grad (Paul van Dyk's Vandit Clubmix)""",7
+1788,b'SOKVWEM12AAA8C8691',b'This is My Year',4
+1789,b'SOHBVHN12AB0180BA7',b'Electrasonic V',7
+1790,b'SOXWGYN12A6702067A',b'Que Vas A Hacer?',8
+1791,b'SOZIQXE12AC960D9A7',b'Love Divine_ All Love Excelling',2
+1792,b'SOEHBKH12A8C139741',b'Ay ! Mi Sombrero',6
+1793,b'SOHNQBZ12A8C13856A',b'Country Girl',0
+1794,b'SONXFYD12AAA8C6D44',b'Execution',1
+1795,b'SOEKTRQ12A8C13B7EA',b'Moscow Nights',9
+1796,b'SOSLPVV12A8C1351F1',b'Red is the Rose',5
+1797,b'SOPSNHW12A8C141B9A',b'Ride On The Rhythm',1
+1798,b'SOYJAEP12A8C141230',b'I.B.S. (Amended Album Version)',1
+1799,b'SORSIAC12A8C140BD9',b'The Murder Prologue',8
+1800,b'SOSJIMT12A8C137360',b'C.C. Ryder',6
+1801,b'SONLBRH12A6D4FBAEE',b'Prelude (Learing To Trust Album Version)',5
+1802,b'SOPZYXX12A8C1316F8',"b""Till We Ain't Strangers Anymore""",0
+1803,b'SOFCVXH12AB0184394',b'Bewitched_ Bothered & Bewildered',5
+1804,b'SOYLBYP12A8C13C62C',b'Reels: Old Joes / the Cliffs of Moher / the clips of mohair / the slightly less-well-informed maid',3
+1805,b'SOAPQSY12A6310E055',b'Stumble',9
+1806,b'SODNYAB12A8C145644',b'Die Slow',4
+1807,b'SOWTBWY12A582A2823',b'Taking Over',7
+1808,b'SORXJLK12A58A79C35',b'El Hombre De La Valija (Rock)',4
+1809,b'SOYVJPV12AB0183576',b'Work Hard',6
+1810,b'SOXPCET12AB018D580',"b""Won't Be Long""",7
+1811,b'SOVCNIE12A8C133D51',b'Azul Contente',2
+1812,b'SOOHZIM12A67ADDB09',b'Winter In Finland',0
+1813,b'SOVKXYA12AB0188679',b'Tras La Reja',9
+1814,b'SOFGXIF12A670215E4',b'Ten Days (Album Version)',8
+1815,b'SODOBSS12AC9072A5E',"b""Half Ain't Been Told""",3
+1816,b'SOOPWJR12A8C139502',b'Perfect Peace',8
+1817,b'SOSBJFI12A58A791C9',b'Machuca',6
+1818,b'SOBBFWL12A8C140087',b'Rang De Basanti',7
+1819,b'SOHBCCE12AB0183009',b'Einmal reich',7
+1820,b'SOUKZLZ12A6D4F869D',b'The Blinding Sun',7
+1821,b'SOABNGV12AC960A047',b'Do You Ever Think Of Me',8
+1822,b'SOYYJBH12AB01894DB',b'Chasing Monsters',3
+1823,b'SOTOBYW12A8C1429DE',b'Never Tell',1
+1824,b'SOGMRON12A8C136042',b'Night Beat',2
+1825,b'SOSTXYN12A6D4F67D4',"b""Passin' Me By""",1
+1826,b'SOPJJKY12A6D4FAF9A',b'SPONT.AN',1
+1827,b'SOJBYED12A6D4FBE81',b'Softly And Tenderly',0
+1828,b'SOZPOFB12AAF3B252D',b'Apisti',3
+1829,b'SOQLLXY12A8C1420C1',b'Got To Give It Up',9
+1830,b'SOIXLCH12A8C139DA9',b'Rockout_ Whatever You Feel Like',9
+1831,b'SOGZZEA12AB0182864',"b""If That's True""",4
+1832,b'SOTEGPD12A8C135FB7',b'Just Look At the Blessing',6
+1833,b'SOFFUNS12A8C13BDD1',b'The Rover (Takao Tajima Remix)',4
+1834,b'SOXHQKT12AB01847E8',b'Beachport',4
+1835,b'SOBLOGP12A8C13F779',b'Concerto No.3 In D: Allegro',9
+1836,b'SOWAIUP12AB017F90A',b'CB4',4
+1837,b'SOCWMGG12A8C1332B2',b'Cero Codazos',3
+1838,b'SOHTWIB12A8AE46192',b'You Never Cry Like A Lover (LP Version)',9
+1839,b'SOZDDQG12AB018386C',b'Crazy Rhythm',4
+1840,b'SOZQVRR12A8C1353A2',b'Voucher',9
+1841,b'SOGBXYT12A8C1443DB',b'Pretty Please Me',6
+1842,b'SOOLDQM12A8C1405AB',b'Eimsbush bis 0711',1
+1843,b'SOUDOMR12AB017F3DC',b'Cupareree or Graysinn',3
+1844,b'SOKJUBL12A8C13760D',b'Carry The Weight',4
+1845,b'SOYDZAD12A67020BDB',b'Future/Now (LP Version)',3
+1846,b'SODYGKH12AB0181F88',b'Chowbay',5
+1847,b'SOBPMUL12AB0180FF4',b'Piney Brown (K.C.)',3
+1848,b'SOOQDTX12A6701F09A',b'Soot and Stars',3
+1849,b'SOTIBYV12A8C135CF7',b'Intro',1
+1850,b'SOVURGF12AB01885E1',b'Jah Keep Us There',4
+1851,b'SOSZDME12AF72AC84F',b'Hot Rod Lincoln',4
+1852,b'SOBITKZ12CF582660A',b'Angeles',3
+1853,b'SOQPTOJ12AB017DE93',b'M\xc3\xa9dium',8
+1854,b'SOPOCMA12AB018B3A1',b'My Tribute (to God Be The Glory)',8
+1855,b'SOFLWFD12AB0189846',b'But You Are',6
+1856,b'SOIVVEW12A8C141277',b'Pretty Smiles & Shattered Teeth',1
+1857,b'SOSPPOJ12AC3DF99F7',b'Policias Y Ladrones',8
+1858,b'SONMNZJ12CF5F892EE',b'English House',8
+1859,b'SOBRWML12AB017FB53',b'Simon',0
+1860,b'SOCCUQS12AB017DB87',b'Bancate Ese Defecto',4
+1861,b'SOWYXUZ12A6D4FA2AC',b'Army Of One',6
+1862,b'SOCZFXN12AB017D7AD',b'Grial II',7
+1863,b'SOAMYXR12A8C13A8AF',b'Get A Hold',7
+1864,b'SONICOR12A8C141F52',b'From Ivory Towers Above The Control Grid',1
+1865,b'SONOKKL12A8AE496C3',b'Cosmic Forge (LP Version)',1
+1866,b'SOAJFUR12A8C13C9CD',b'Over And Over',6
+1867,b'SOAZQTG12AB0183237',b'The Question Is (Album Version)',0
+1868,b'SOYJNHO12AB01856DC',b'Todo A Pulm\xc3\xb3n',2
+1869,b'SOOBDVS12AB0188EA4',b'Lullaby For The Summer',9
+1870,b'SOJAYZL12AB01817AF',"b""Love N' Gold""",6
+1871,b'SOIVHVW12AB01849A1',b'Juke It Down',4
+1872,b'SOKFEUT12A6D4FC34C',b'Where I Stood [Live]',0
+1873,b'SOSRAMK12AB018814F',b'Disposition (feat. Jest)',1
+1874,b'SOEZZFV12AB0184D09',b'Dog Tagged',1
+1875,b'SOVFVTK12AB0188BAE',b'Doctrines',5
+1876,b'SOYCSXH12AC3A4DF57',b'The Key',6
+1877,b'SOKXPCX12AB0181594',b'Fang Bu Sheng Fang',3
+1878,b'SOBPLJZ12A8C13820B',"b""Wagoner's Lad""",3
+1879,b'SONBWVW12AB0186FFB',b'5 Foot 1',1
+1880,b'SOLLEZO12AC90756A5',"b""Peter Pan (j'veux pas \xc3\xaatre jeune) [feat. Les Pistons Flingueurs]""",9
+1881,b'SOQUPDS12A8C13EAEB',b'Baby Momma (Chopped & Screwed Version)',7
+1882,b'SOZHMFN12A6D4F4B3D',b'Butterflies',7
+1883,b'SOCEDDF12A8C13C33C',b'Guajira Y Ven',9
+1884,b'SOCEEIT12A6D4FA16A',b'Games That Lovers Play',3
+1885,b'SOLCICH12A58A7DB31',b'Desperados',1
+1886,b'SOYHHHT12A6D4F7F97',b'One More Night',8
+1887,b'SOANUAV12AC468BA4F',b'No Se Lo Que Me Da',8
+1888,b'SOLAEYA12A58A7A5D6',b'Going Back To New Orleans',7
+1889,b'SOSQYQG12AB01835EA',b'Superman',7
+1890,b'SOXPJDT12A8C131F4D',b'Coyotes (Album Version)',8
+1891,b'SOURJIW12AC3DF6AAE',b'Fly Again (The Scumfrog Radio Edit)',6
+1892,b'SOGOUPN12AB0186262',b'Todas Las Cosas Que Ella Me Di\xc3\xb3',9
+1893,b'SOXKKUV12AB01867F9',b'Ice Cream Man',9
+1894,b'SOQBZRD12A8C13AC89',b'Cumha Eoghain Rua Ui Neill (Lament For Owen Roe)',2
+1895,b'SOBCSFE12A6D4F814A',b'El Chico Del Apartamento 512',7
+1896,b'SOGHPTG12A6D4F97CF',b'Bang',7
+1897,b'SOPZATK12A6D4FDDB0',b'The Everclear Song',3
+1898,b'SOYUBHZ12A8C136E79',b'Streamline',7
+1899,b'SOVOBMR12A8C133961',b'Sweet Lover Hangover',8
+1900,b'SOKZTHA12A8C134830',b'Good Girl Gone Bad',8
+1901,b'SOEWLHT12AB0185559',"b""Rollin' and Tumblin'""",2
+1902,b'SOKKFEH12AB01830F9',"b""He's Waitin'""",1
+1903,b'SOKWYNS12A8AE47330',b'Laurie And Martin',2
+1904,b'SOELHYK12A6D4FD7A7',b'I Must Tell Somebody',8
+1905,b'SOCTRKD12A8AE47E96',b'If Money Talks',1
+1906,b'SODGBHB12AB01803BD',b'Shine For Jesus',5
+1907,b'SOEHEZS12AB018CB02',b'Thank You For Calling',5
+1908,b'SOIKXBJ12AC3DF8048',b'Gay Ranchero',5
+1909,b'SOIAWUS12AB0187B0B',b'Sample Track 11',4
+1910,b'SOFIYEO12A8C13690A',b'Mi Ni Yu Wo',1
+1911,b'SOJAFPW12AB0182E68',b'Evening Prayer',3
+1912,b'SOEMHMT12A58A7A778',b'Hard To Admit',5
+1913,b'SOMUAIK12A8C135B40',b'Yi Ji Ji Zhong',1
+1914,b'SOMBVRT12AB0181F49',b'Qu\xc3\xadtate La Ropa',6
+1915,b'SOQBRHU12A8C13BCA0',b'Sarambeque',3
+1916,b'SOJPNVG12A6D4FACFC',b'Resurrection',3
+1917,b'SOVZFZI12AB018B2F0',b'Min Aporis',0
+1918,b'SOLCUUR12A8C140084',"b""J'Suis Dans La D\xc3\xaache""",3
+1919,b'SOQYEDW12A6D4F8D64',b'Teeny Weeny String Bikini',1
+1920,b'SOZCWKW12A8C13C124',b'Poema',2
+1921,b'SOWRLAV12AB0188811',b'Watch This Sounds',6
+1922,b'SOCXKTK12A8C13E6BA',b'Mozart In Samba Motion',5
+1923,b'SOHOLRN12AB0179E6D',"b""Lock The Door / Get Up Old Woman And Shake Yourself / What Ail's You? - (single jig)""",3
+1924,b'SOHGGKC12A8C130BE4',b'Sweet Suffering Christ',3
+1925,b'SOFZBND12AB0182D9A',b'Follow The Light (Radio Edit)',7
+1926,b'SOGHXZH12A8C1388B9',b'Heaven Can Wait',7
+1927,b'SOMUFQB12A81C22FA9',b'Carta De Amor',5
+1928,b'SOFNEXF12A8AE464D0',b'When Disaster Strikes (Explicit LP Version)',4
+1929,b'SOYEFZY12A8C1333DA',b'Yo Mouth (Skit)',8
+1930,b'SOAPOVV12AB018CFC8',b'Noises',5
+1931,b'SOFLVQE12AB017F886',b'Dissidents (The Search For Truth Part 1) (2009 Digital Remaster)',4
+1932,b'SOHZXUO12A6D4FBD73',b'The Big Stall',4
+1933,b'SOZASXE12A58A7F12B',b'Dying To Stay',7
+1934,b'SOFMBEN12AB0180769',"b'Beneath The Valley Of The Underdog (Album Version + Hidden Track ""Talkin\' Randy Tate\'s..."")'",6
+1935,b'SORAACY12A8AE475D2',b'Watchie Watchie',7
+1936,b'SOVAJWX12AB0181448',b'Gun Shot',7
+1937,b'SOHEZWR12A8C14077F',b'Take Five - Live',6
+1938,b'SOYWVRO12AB018353B',b'Kindhearted Woman Blues',2
+1939,b'SOAANKE12A8C13CF5C',b'Sam und Bo_ N.E.O.',1
+1940,b'SOAUMHT12AB01839D0',b'Take The Time',6
+1941,b'SOLVPVO12A58A7B5F4',b'Desert Caravan',0
+1942,b'SOBPIUW12AB01818FB',b'Born Again',6
+1943,b'SONSUTY12A6D4FA57D',b'Les Forains',2
+1944,b'SOBVMGA12AB018B0C5',b'Sunset In Akkarai',4
+1945,b'SOUQJMW12A8C134DF4',b'Trouble',2
+1946,b'SONTXFB12A8C145C15',"b""Don't Stop""",6
+1947,b'SODKOWW12A8C1325BB',b'Vodne stocne',3
+1948,b'SOKWISB12A6D4F8861',b'Puzzle of Hearts',3
+1949,b'SOXRDFA12A8C13AEC5',b'Aunque Ma\xc3\xb1ana No Estes',3
+1950,b'SORMCUQ12A8C131EB9',b'Ja Soc Aqui',9
+1951,b'SOCOZKO12B0B8066E3',b'Sweetest Goodbye',7
+1952,b'SODXCLM12A6D4F7C97',b'Did Ya Say That',7
+1953,b'SOERDTL12AB018779E',b'After One Quarter Of A Revolution',1
+1954,b'SOGRKOS12AB0185A46',b'Streets On Fire',6
+1955,b'SOMBASS12A58A7B09E',b'Everything Good (Everything Good Version)',6
+1956,b'SOTDEPN12AC3DF46DB',b'Christina The Astonishing (2010 Digital Remaster)',3
+1957,b'SOASCHQ12A6D4F9091',b'Hello',7
+1958,b'SOSCRKV12A8C13BBBD',b'Nada De Ti',8
+1959,b'SOQRIGO12AB018A90E',b'House Full Of Bullets',0
+1960,b'SOKFFSS12A8C1316E3',"b""The Kid's Last Night (heaven is in the mountain)""",3
+1961,b'SOMOFTZ12AB0182A54',b'Curse Of Sound (Dub Mix)',7
+1962,b'SOMZIHP12AC9E12A87',b'Midnight Lovers',4
+1963,b'SOQBMLT12A8AE45F50',b'Shoot The Dog',1
+1964,b'SOURCQF12A6D4F6F04',b'Praz Him (Broken Album Version)',1
+1965,b'SOMTEOW12A8C13C938',b'The Aba Daba Honeymoon',9
+1966,b'SOWETKI12A67ADC802',b'Tainted Love feat. Tatz',7
+1967,b'SORLGJC12A8C13FADC',"b""I'll Be Home When I Can""",5
+1968,b'SOUNPPV12A8C13F5D3',b'The Song Remains The Same (2007 Remastered Album Version)',6
+1969,b'SOAOPCG12AC468D27E',b'Everything In Its Right Place',8
+1970,b'SOUNVEQ12AB018630C',b'Ida Red',9
+1971,b'SOUDXDX12AB018B942',b'Confiar Es Perder',6
+1972,b'SOYIGVZ12A8C13C73D',b'Eat Or Get Ate',7
+1973,b'SOJZHQO12AB0184E36',b'Requiem Mass in D Minor_ K. 626: VIII. Lacrimosa dies illae',2
+1974,b'SOEPXYF12AB01821CA',"b'Of Love & War (""Harry Potter & The Half-Blood Prince"")'",5
+1975,b'SONVVPY12A58A7A0A7',b'Giant Steps',5
+1976,b'SOHGPEC12A8C13BBE8',b'Better Life',6
+1977,b'SOHQKEZ12AC46875E9',b'Constructing the Absence',4
+1978,b'SOKNINP12AB018B233',b'Serenata de un gaitero',9
+1979,b'SOXZAGF12CF5827515',b'Amazing',7
+1980,b'SOEVDCK12AB018A8F3',b'La Pieuvre',3
+1981,b'SOGAGGI12AB0183FC6',b'Slatke male maloletnice',4
+1982,b'SOXYKNM12AB018D23A',b'Boy & Girl (Feat. Fiona Daniel)',0
+1983,b'SOEMSEL12A8C133A42',"b""Don't Treat Me Bad""",8
+1984,b'SOSJRUA12AF729B7A7',b'Concede',7
+1985,b'SOOYJKF12AB0183217',b'Djungelstadt',7
+1986,b'SOXWTYQ12A58A7BDAD',"b""Freezin' From The Inside Out""",3
+1987,b'SOHCSSG12A58A7CF2D',"b""I've Been Working on the Railroad""",3
+1988,b'SOHANSY12AB018132E',b'Maga Dog/ Skanky Dog (Album)',3
+1989,b'SOJDEBD12AB018512D',b'Escape From The Underrealm',1
+1990,b'SOPFGRC12A81C220E1',"b""Gaffo's Ball""",8
+1991,b'SOSKUCS12A58A7955B',b'Bleeds In Blue (Album Version)',8
+1992,b'SOPNHHV12AB0184777',b'You Make Our Shack A Mansion',4
+1993,b'SOBHHIZ12AB01841E0',b'Peanuts',8
+1994,b'SOMLMFQ12A8C13C834',b'I Can Dig It',9
+1995,b'SOLZXMY12A8C13BEA1',b'Mi Coraz\xc3\xb3n Y Mi Mente',6
+1996,b'SOIULKI12A58A7D8CD',b'Getting Closer',4
+1997,b'SOSXERI12AB0190244',b'Tough Guy',7
+1998,b'SOLNWPG12A8C13B98E',b'Bubble Music',1
+1999,b'SOOWJBD12A8C139450',b'Flesh And Blood',6
+2000,b'SOGVFPJ12A6D4F8105',b'Bury Me',8
