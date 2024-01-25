@@ -1,38 +1,43 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿{% load static %}
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
     <title>Nippur</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-
 </head>
-
 <body>
-    <div class="container">
-        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
-            <div class="col-md-3 mb-2 mb-md-0">
-                <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-                    <svg class="bi" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"></use></svg>
+
+    <div id="block-body">
+        <header>
+            <div class="logo">
+                <a href="">
+                    <img src="{% static 'img/logo.jpg' %}" width="150" height="70">
                 </a>
             </div>
 
-            <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-                <li><a href="#" class="nav-link px-2 link-secondary">Home</a></li>
-            </ul>
 
-            <div class="col-md-3 text-end">
-                <button type="button" class="btn btn-outline-primary me-2">Login</button>
-                <button type="button" class="btn btn-primary">Sign-up</button>
+            <div class="top-menu">
+                <ul>
+                    <li><a href="#">Об авторе</a></li>
+                    <li><a href="#">Обратная связь</a></li>
+                </ul>
             </div>
+
+            <div class="block-top-auth">
+                <p><a href="login">Вход</a></p>
+                <p><a href="register">Регистрация</a></p>
+            </div>
+
         </header>
+
+        <div id="block-content"></div>
+
     </div>
 
-    <footer>
-        <p>&copy; 2024 Nippur. Все права защищены.</p>
-    </footer>
-</body>
 
+
+</body>
 </html>
 

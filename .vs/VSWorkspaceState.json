@@ -3,8 +3,10 @@
     "",
     "\\nippur",
     "\\nippur\\main",
-    "\\nippur\\nippur"
+    "\\nippur\\main\\templates",
+    "\\nippur\\main\\templates\\main",
+    "\\nippur\\static"
   ],
-  "SelectedNode": "\\nippur\\main\\admin.py",
+  "SelectedNode": "\\nippur\\main\\urls.py",
   "PreviewInSolutionExplorer": false
 }
