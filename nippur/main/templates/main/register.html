@@ -10,41 +10,44 @@
     <meta charset="UTF-8">
 
     <title>Nippur - Register</title>
-
+    <style>
+        .myfield{
+            position: relative;
+            width: 100%;
+            padding: 10px;
+            background: #333;
+            color: white;
+            font-weight: 600;
+            font-size: 1.35em;
+            letter-spacing: 0.05em;
+            cursor: pointer;
+        }
+    </style>
     <link rel="stylesheet" href= "{% static 'css/register.css' %}">
 
 </head>
 
 <body>
-
     <section>
         <div class="signin">
             <div class="content">
                 <h2>Register</h2>
-                <div class="form">
-                    <div class="inputBox">
-                        <input type="email" required> <i>Email</i>
-                    </div>
-                    <div class="inputBox">
-                        <input type="text" required> <i>Username</i>
-                    </div>
-                    <div class="inputBox">
-                        <input type="password" required> <i>Password</i>
-                    </div>
-                    <div class="inputBox">
-                        <input type="password" required> <i>Repeat Password</i>
-                    </div>
+                <form method="post" class = "form">
+                    {% csrf_token %}
+                    {{form.email}}
+                    {{form.username}}
+                    {{form.password}}
+                    {{form.r_password}}
                     <div class="links">
                          <a href="login">SignIn</a>
                     </div>
                     <div class="inputBox">
                         <input type="submit" value="SignUp">
                     </div>
-                </div>
+                </form>
             </div>
         </div>
     </section>
-
 </body>
 
 </html>
