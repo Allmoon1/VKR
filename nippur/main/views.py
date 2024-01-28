@@ -11,16 +11,20 @@ def login(request):
 
 
 def register(request):
-
+    error = ""
     if request.method == "POST":
         form = UserForm(request.POST)
-        if form.is_valid():
+        if form.is_valid() and (form.cleaned_data.get("password") == form.cleaned_data.get("r_password")):
             form.save()
-            return redirect(login)
+            error = ""
+            return redirect(index)
+        else:
+            error = "Passwords invalid"
 
     form = UserForm()
     data = {
-        'form':form
+        'form':form,
+        'error':error
         }
 
     return render(request, 'main/register.html', data)

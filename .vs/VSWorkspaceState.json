@@ -10,6 +10,6 @@
     "\\nippur\\static\\css",
     "\\nippur\\static\\img"
   ],
-  "SelectedNode": "\\nippur\\main\\templates\\main\\login.html",
+  "SelectedNode": "\\nippur\\main\\views.py",
   "PreviewInSolutionExplorer": false
 }
