@@ -5,11 +5,8 @@
     "\\nippur\\main",
     "\\nippur\\main\\templates",
     "\\nippur\\main\\templates\\main",
-    "\\nippur\\nippur",
-    "\\nippur\\static",
-    "\\nippur\\static\\css",
-    "\\nippur\\static\\img"
+    "\\nippur\\nippur"
   ],
-  "SelectedNode": "\\nippur\\main\\views.py",
+  "SelectedNode": "\\nippur\\main\\models.py",
   "PreviewInSolutionExplorer": false
 }

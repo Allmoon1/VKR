@@ -4,7 +4,7 @@ from .models import User
 from django.forms import ModelForm, TextInput, EmailInput, PasswordInput
 from django import forms
 
-class UserForm(ModelForm):
+class UserRegistrationForm(ModelForm):
     class Meta:
         model = User
         fields = ['email','username', 'password', 'r_password']
@@ -13,4 +13,12 @@ class UserForm(ModelForm):
             'username': TextInput(attrs = {'class': 'myfield', 'placeholder':'Username'}),
             'password': PasswordInput(attrs = {'class': 'myfield', 'placeholder':'Password'}),
             'r_password': PasswordInput(attrs = {'class': 'myfield', 'placeholder':'Repeat password'}),
+            }
+class UserAuthorizationForm(ModelForm):
+    class Meta:
+        model = User
+        fields = ['username', 'password']
+        widgets = { 
+            'username': TextInput(attrs = {'class': 'myfield', 'placeholder':'Username'}),
+            'password': PasswordInput(attrs = {'class': 'myfield', 'placeholder':'Password'})
             }

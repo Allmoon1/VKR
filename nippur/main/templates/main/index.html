@@ -8,7 +8,6 @@
     <title>Nippur</title>
 </head>
 <body>
-
     <div id="block-body">
         <header>
             <div class="logo">
@@ -17,7 +16,6 @@
                 </a>
             </div>
 
-
             <div class="top-menu">
                 <ul>
                     <li><a href="#">Об авторе</a></li>
@@ -25,11 +23,17 @@
                 </ul>
             </div>
 
+            {% if user.is_authenticated %}
+            <div class="block-top-auth">
+                <p><a href="logout">Выход</a></p>
+            </div>
+            {% else %}
             <div class="block-top-auth">
                 <p><a href="login">Вход</a></p>
                 <p><a href="register">Регистрация</a></p>
             </div>
-
+            {% endif %}
+       
         </header>
 
         <div id="block-content"></div>

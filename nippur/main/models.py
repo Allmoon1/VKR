@@ -12,7 +12,10 @@ class User(models.Model):
 
 
 class Song(models.Model):
-    title = models.CharField(max_length=100)
+    num = models.IntegerField()
+    song_id = models.CharField(max_length=20)
+    title = models.TextField()
+    cluster = models.IntegerField()
     file_path = models.FileField()
 
 
