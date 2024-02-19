@@ -7,7 +7,21 @@ from .models import Song
 
 
 def index(request):
-    return render(request, 'main/index.html')
+    if not request.user.is_authenticated:
+        return render(request, 'main/index.html')
+
+    search_query = request.GET.get("q")
+    records = ""
+    if search_query == None:
+        records = "Not found"
+    else:
+        records = Song.objects.filter(title__contains = search_query)
+    
+
+
+    return render(request, 'main/index.html', {
+        'records':records,
+        })
 
 def login(request):
     error = ""

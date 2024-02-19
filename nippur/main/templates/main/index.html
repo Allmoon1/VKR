@@ -27,13 +27,19 @@
             <div class="block-top-auth">
                 <p><a href="logout">Выход</a></p>
             </div>
+            <form action="{% url "index" %}" method="get">
+                <input class="search" type="text" name="q" placeholder="Search...">
+            </form>
+            {% for c in records %}
+            <p><a href="login">{{c.title}}</a></p>
+            {% endfor %}
             {% else %}
             <div class="block-top-auth">
                 <p><a href="login">Вход</a></p>
                 <p><a href="register">Регистрация</a></p>
             </div>
             {% endif %}
-       
+
         </header>
 
         <div id="block-content"></div>
