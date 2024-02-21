@@ -65,4 +65,6 @@ def register(request):
 def logout(request):
     auth.logout(request)
     return redirect(index)
+
+
 # Create your views here.
