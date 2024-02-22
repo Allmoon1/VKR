@@ -20,32 +20,40 @@ let isPlaying = false;
 let isRandom = false;
 let updateTimer;
 
-let tittle = document.currentScript.getAttribute('_tittle'); 
-let file_path = document.currentScript.getAttribute('_file_path'); 
-console.log(tittle)
+
+//Нужно динамически менять музыку(файл путь)
+let tittle = document.querySelector('.song').getAttribute("dflt");
+let file_path = document.querySelector('.song').getAttribute("path");
 console.log(file_path)
-const music_list = [
-    {
-        img: '',
-        name: 'Price I Pay',
-        artist: '',
-        music: 'static/music/Price I Pay.mp3'
-    }
-];
+let music_list = {
+        img : '',
+        name : tittle,
+        artist : '',
+        music: 'static/music/Never_Again_(Album_Version).mp3'
+};
+
+
 
 loadTrack(track_index);
+
+function changeTittle(obj) {
+    tittle = obj.getAttribute("dflt")
+    music_list["name"] = obj.getAttribute("dflt")
+    //file_path = obj.getAttribute("path")
+    //music_list["music"] = obj.getAttribute("path")
+    loadTrack(track_index)
+}
 
 function loadTrack(track_index) {
     clearInterval(updateTimer);
     reset();
 
-    curr_track.src = music_list[track_index].music;
+    curr_track.src = music_list["music"];
     curr_track.load();
 
-    track_art.style.backgroundImage = "url(" + music_list[track_index].img + ")";
-    track_name.textContent = music_list[track_index].name;
-    track_artist.textContent = music_list[track_index].artist;
-    now_playing.textContent = "Playing music " + (track_index + 1) + " of " + music_list.length;
+    track_art.style.backgroundImage = "url(" + music_list["img"] + ")";
+    track_name.textContent = music_list["name"];
+    track_artist.textContent = music_list["artist"];
 
     updateTimer = setInterval(setUpdate, 1000);
 

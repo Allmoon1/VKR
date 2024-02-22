@@ -6,8 +6,11 @@
     "\\nippur\\main\\templates",
     "\\nippur\\main\\templates\\main",
     "\\nippur\\nippur",
-    "\\nippur\\static"
+    "\\nippur\\static",
+    "\\nippur\\static\\css",
+    "\\nippur\\static\\music",
+    "\\nippur\\static\\scripts"
   ],
-  "SelectedNode": "\\nippur\\main\\templates\\main\\index.html",
+  "SelectedNode": "\\nippur\\static\\scripts\\script.js",
   "PreviewInSolutionExplorer": false
 }

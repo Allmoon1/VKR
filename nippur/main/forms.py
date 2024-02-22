@@ -4,6 +4,7 @@ from xml.dom.minidom import Attr
 from .models import User, Song
 from django.forms import ModelForm, TextInput, EmailInput, PasswordInput
 from django import forms
+from rest_framework import serializers
 
 class UserRegistrationForm(ModelForm):
     class Meta:

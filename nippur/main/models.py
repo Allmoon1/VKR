@@ -18,7 +18,10 @@ class Song(models.Model):
     cluster = models.IntegerField()
     file_path = models.FileField()
 
-
+    def get_title(self):
+        return str(self.title)
+    def get_path(self):
+        return str(self.file_path)
 
 # Create your models here.
 

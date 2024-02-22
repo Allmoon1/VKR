@@ -17,8 +17,6 @@ def index(request):
     else:
         records = Song.objects.filter(title__contains = search_query)
     
-
-
     return render(request, 'main/index.html', {
         'records':records,
         })

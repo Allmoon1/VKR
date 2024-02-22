@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="{% static 'css/index.css' %}">
     <link rel="stylesheet" href="{% static 'css/player.css' %}">
-    <script src="{% static 'scripts/script.js' %}" _tittle = {{c.tittle}} _file_path = {{c.file_path}} defer></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Nippur</title>
@@ -35,8 +34,9 @@
                 <input class="search" type="text" name="q" placeholder="Search...">
             </form>
             {% for c in records %}
-            <p><a href="login">{{c.title}}</a></p>
+            <p class="song" dflt="{{c.get_title}}" path="{{c.get_path}}" onclick="changeTittle(this)">{{c.get_title}}</p>
             {% endfor %}
+            <script src="{% static 'scripts/script.js' %}" defer></script>
 
             <div class="player">
                 <div class="wrapper">
