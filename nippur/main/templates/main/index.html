@@ -36,6 +36,7 @@
             {% for c in records %}
             <p class="song" dflt="{{c.get_title}}" path="{{c.get_path}}" onclick="changeTittle(this)">{{c.get_title}}</p>
             {% endfor %}
+
             <script src="{% static 'scripts/script.js' %}" defer></script>
 
             <div class="player">

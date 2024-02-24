@@ -4,7 +4,7 @@ from .forms import UserRegistrationForm
 from .forms import UserAuthorizationForm
 from .models import User
 from .models import Song
-
+from django.core.paginator import Paginator
 
 def index(request):
     if not request.user.is_authenticated:

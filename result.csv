@@ -1,7 +1,7 @@
 num,song_id,title,cluster,file_path
-0, 'SORKXVV12A8C134C70', 'Price I Pay', 6, 'static/music/Price_I_Pay.mp3'
-1,'SOVFWRR12A58A7C25E','Never Again (Album Version)',1,'static/music/Never_Again_(Album_Version).mp3'
-2,'SONTDOE12AAFF4446C','Earth Child (World)',0,'static/music/Earth_Child_(World).mp3'
+0, 'SORKXVV12A8C134C70', Price I Pay, 6, static/music/Price_I_Pay.mp3
+1,'SOVFWRR12A58A7C25E',Never Again (Album Version),1, static/music/Never_Again_(Album_Version).mp3
+2,'SONTDOE12AAFF4446C',Earth Child (World),0, static/music/Earth_Child_(World).mp3
 3,'SOPXZIE12AB017C4D4','Master_ Faster_ Sweet Desaster',6
 4,'SOQSCFU12A8C13DAC3',"'Silent Night (Featuring Geoffrey Jones_ Terrence ""T-Bone"" Frierson_ Billy Steele)'",6
 5,'SOIBUYG12AB01892A1',"""My Man's Gone Now""",2

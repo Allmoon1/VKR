@@ -1,3 +1,5 @@
+
+
 let now_playing = document.querySelector('.now-playing');
 let track_art = document.querySelector('.track-art');
 let track_name = document.querySelector('.track-name');
@@ -21,15 +23,15 @@ let isRandom = false;
 let updateTimer;
 
 
-//Нужно динамически менять музыку(файл путь)
+
 let tittle = document.querySelector('.song').getAttribute("dflt");
 let file_path = document.querySelector('.song').getAttribute("path");
-console.log(file_path)
+
 let music_list = {
         img : '',
         name : tittle,
         artist : '',
-        music: 'static/music/Never_Again_(Album_Version).mp3'
+        music: file_path
 };
 
 
@@ -39,8 +41,9 @@ loadTrack(track_index);
 function changeTittle(obj) {
     tittle = obj.getAttribute("dflt")
     music_list["name"] = obj.getAttribute("dflt")
-    //file_path = obj.getAttribute("path")
-    //music_list["music"] = obj.getAttribute("path")
+    file_path = obj.getAttribute("path")
+    music_list["music"] = obj.getAttribute("path")
+    console.log(music_list["music"])
     loadTrack(track_index)
 }
 
@@ -51,13 +54,10 @@ function loadTrack(track_index) {
     curr_track.src = music_list["music"];
     curr_track.load();
 
-    track_art.style.backgroundImage = "url(" + music_list["img"] + ")";
     track_name.textContent = music_list["name"];
-    track_artist.textContent = music_list["artist"];
 
     updateTimer = setInterval(setUpdate, 1000);
 
-    curr_track.addEventListener('ended', nextTrack);
     random_bg_color();
 }
 
