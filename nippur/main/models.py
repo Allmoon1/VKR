@@ -20,6 +20,7 @@ class Song(models.Model):
 
     def get_title(self):
         return str(self.title)
+
     def get_path(self):
         return str(self.file_path)
 
