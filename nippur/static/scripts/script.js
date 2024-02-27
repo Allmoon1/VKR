@@ -31,7 +31,7 @@ let music_list = {
         img : '',
         name : tittle,
         artist : '',
-        music: file_path
+        music: file_path //static/music/Price_I_Pay.mp3
 };
 
 
