@@ -1,3 +1,4 @@
+from pickle import TRUE
 from django.db import models
 
 
@@ -12,10 +13,9 @@ class User(models.Model):
 
 
 class Song(models.Model):
-    num = models.IntegerField()
-    song_id = models.CharField(max_length=20)
-    title = models.TextField()
-    cluster = models.IntegerField()
+    id = models.IntegerField(primary_key = True)
+    song_title = models.TextField()
+    clusters = models.IntegerField()
     file_path = models.FileField()
 
     def get_title(self):

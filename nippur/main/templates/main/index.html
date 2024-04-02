@@ -26,7 +26,7 @@
                 </ul>
             </div>
 
-            {% if user.is_authenticated %}
+            {% if users.is_authenticated %}
             <div class="block-top-auth">
                 <p><a href="logout">Выход</a></p>
             </div>
@@ -34,7 +34,7 @@
                 <input class="search" type="text" name="q" placeholder="Search...">
             </form>
             {% for c in records %}
-            <p class="song" dflt="{{c.get_title}}" path="{{c.get_path}}" onclick="changeTittle(this)">{{c.get_title}}</p>
+            <p class="song" dflt="{{c.song_title}}" path="{{c.file_path}}" onclick="changeTittle(this)">{{c.song_title}}</p>
             {% endfor %}
 
             <script src="{% static 'scripts/script.js' %}" defer></script>
@@ -61,8 +61,8 @@
                     </div>
 
                     <div class="buttons">
-                        <div class="random-track" onclick="randomTrack()">
-                            <i class="fas fa-random fa-2x" title="random"></i>
+                        <div class="btns">
+                            <Button onclick="Toggle1()" id="btnh1" class="btn"><i class="fas fa-heart"></i></Button>
                         </div>
                         <div class="prev-track" onclick="prevTrack()">
                             <i class="fa fa-step-backward fa-2x"></i>
@@ -73,6 +73,18 @@
                         <div class="next-track" onclick="nextTrack()">
                             <i class="fa fa-step-forward fa-2x"></i>
                         </div>
+                        <script>
+                            // First Like Button
+                            var btnvar1 = document.getElementById('btnh1');
+                            function Toggle1() {
+                                if (btnvar1.style.color == "green") {
+                                    btnvar1.style.color = "black"
+                                }
+                                else {
+                                    btnvar1.style.color = "green"
+                                }
+                            }
+                        </script>
                         <div class="repeat-track" onclick="repeatTrack()">
                             <i class="fa fa-repeat fa-2x" title="repeat"></i>
                         </div>

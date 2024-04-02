@@ -219,3 +219,23 @@ p {
 .stroke:nth-child(7) {
     animation-delay: 0s;
 }
+
+.btns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.btn {
+    background: transparent;
+    border: none;
+    margin: 70px;
+    font-size: 70px;
+    outline: none;
+    color: black;
+}
+
+    .btn i:hover {
+        cursor: pointer;
+    }
